@@ -1,11 +1,11 @@
-name: scrape-wikipedia
+name: get-pca-data
 
 on:
   push:
     branches:
       - master
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "*/5 * * * *"
 
 jobs:
   build-and-deploy:
