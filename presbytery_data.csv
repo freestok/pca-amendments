@@ -1,5 +1,5 @@
 presbytery,for,against,item
-Arizona,1.0,0.0,Item 1
+Arizona,,,Item 1
 Ascension,28.0,7.0,Item 1
 Blue Ridge,,,Item 1
 Calvary,,,Item 1
@@ -154,7 +154,7 @@ Philadelphia Metro West,,,Item 2
 Piedmont Triad,38.0,0.0,Item 2
 Pittsburgh,,,Item 2
 Platte Valley,7.0,10.0,Item 2
-Potomac,,,Item 2
+Potomac,46.0,1.0,Item 2
 Providence,51.0,0.0,Item 2
 Rio Grande,,,Item 2
 Rocky Mountain,,,Item 2
@@ -594,7 +594,7 @@ Philadelphia Metro West,,,Item 7
 Piedmont Triad,16.0,20.0,Item 7
 Pittsburgh,,,Item 7
 Platte Valley,5.0,10.0,Item 7
-Potomac,,,Item 7
+Potomac,7.0,37.0,Item 7
 Providence,43.0,8.0,Item 7
 Rio Grande,,,Item 7
 Rocky Mountain,,,Item 7
@@ -1034,7 +1034,7 @@ Philadelphia Metro West,,,Item 12
 Piedmont Triad,40.0,0.0,Item 12
 Pittsburgh,,,Item 12
 Platte Valley,14.0,3.0,Item 12
-Potomac,,,Item 12
+Potomac,51.0,0.0,Item 12
 Providence,51.0,0.0,Item 12
 Rio Grande,,,Item 12
 Rocky Mountain,,,Item 12
