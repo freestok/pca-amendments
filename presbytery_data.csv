@@ -1,5 +1,5 @@
 presbytery,for,against,item
-Arizona,,,Item 1
+Arizona,2.0,33.0,Item 1
 Ascension,28.0,7.0,Item 1
 Blue Ridge,,,Item 1
 Calvary,,,Item 1
@@ -87,7 +87,7 @@ Warrior,,,Item 1
 West Hudson,13.0,13.0,Item 1
 Westminster,26.0,2.0,Item 1
 Wisconsin,,,Item 1
-Arizona,,,Item 2
+Arizona,31.0,0.0,Item 2
 Ascension,33.0,0.0,Item 2
 Blue Ridge,,,Item 2
 Calvary,,,Item 2
@@ -175,7 +175,7 @@ Warrior,,,Item 2
 West Hudson,1.0,0.0,Item 2
 Westminster,28.0,0.0,Item 2
 Wisconsin,17.0,7.0,Item 2
-Arizona,,,Item 3
+Arizona,8.0,19.0,Item 3
 Ascension,34.0,1.0,Item 3
 Blue Ridge,,,Item 3
 Calvary,,,Item 3
@@ -263,7 +263,7 @@ Warrior,,,Item 3
 West Hudson,1.0,0.0,Item 3
 Westminster,7.0,19.0,Item 3
 Wisconsin,31.0,1.0,Item 3
-Arizona,,,Item 4
+Arizona,31.0,0.0,Item 4
 Ascension,32.0,1.0,Item 4
 Blue Ridge,,,Item 4
 Calvary,,,Item 4
@@ -351,7 +351,7 @@ Warrior,,,Item 4
 West Hudson,24.0,1.0,Item 4
 Westminster,29.0,0.0,Item 4
 Wisconsin,18.0,8.0,Item 4
-Arizona,,,Item 5
+Arizona,31.0,0.0,Item 5
 Ascension,33.0,1.0,Item 5
 Blue Ridge,,,Item 5
 Calvary,,,Item 5
@@ -439,7 +439,7 @@ Warrior,,,Item 5
 West Hudson,23.0,1.0,Item 5
 Westminster,27.0,1.0,Item 5
 Wisconsin,18.0,8.0,Item 5
-Arizona,,,Item 6
+Arizona,31.0,0.0,Item 6
 Ascension,35.0,0.0,Item 6
 Blue Ridge,,,Item 6
 Calvary,,,Item 6
@@ -527,7 +527,7 @@ Warrior,,,Item 6
 West Hudson,1.0,0.0,Item 6
 Westminster,30.0,0.0,Item 6
 Wisconsin,31.0,1.0,Item 6
-Arizona,,,Item 7
+Arizona,34.0,1.0,Item 7
 Ascension,22.0,5.0,Item 7
 Blue Ridge,,,Item 7
 Calvary,,,Item 7
@@ -615,7 +615,7 @@ Warrior,,,Item 7
 West Hudson,1.0,0.0,Item 7
 Westminster,6.0,22.0,Item 7
 Wisconsin,25.0,1.0,Item 7
-Arizona,,,Item 8
+Arizona,31.0,0.0,Item 8
 Ascension,35.0,0.0,Item 8
 Blue Ridge,,,Item 8
 Calvary,,,Item 8
@@ -703,7 +703,7 @@ Warrior,,,Item 8
 West Hudson,1.0,0.0,Item 8
 Westminster,2.0,26.0,Item 8
 Wisconsin,27.0,0.0,Item 8
-Arizona,,,Item 9
+Arizona,31.0,0.0,Item 9
 Ascension,34.0,1.0,Item 9
 Blue Ridge,,,Item 9
 Calvary,,,Item 9
@@ -791,7 +791,7 @@ Warrior,,,Item 9
 West Hudson,1.0,0.0,Item 9
 Westminster,30.0,0.0,Item 9
 Wisconsin,31.0,1.0,Item 9
-Arizona,,,Item 10
+Arizona,31.0,0.0,Item 10
 Ascension,32.0,1.0,Item 10
 Blue Ridge,,,Item 10
 Calvary,,,Item 10
@@ -879,7 +879,7 @@ Warrior,,,Item 10
 West Hudson,1.0,0.0,Item 10
 Westminster,29.0,0.0,Item 10
 Wisconsin,31.0,1.0,Item 10
-Arizona,,,Item 11
+Arizona,31.0,0.0,Item 11
 Ascension,35.0,0.0,Item 11
 Blue Ridge,,,Item 11
 Calvary,,,Item 11
@@ -967,7 +967,7 @@ Warrior,,,Item 11
 West Hudson,1.0,0.0,Item 11
 Westminster,29.0,1.0,Item 11
 Wisconsin,31.0,1.0,Item 11
-Arizona,,,Item 12
+Arizona,31.0,0.0,Item 12
 Ascension,35.0,0.0,Item 12
 Blue Ridge,,,Item 12
 Calvary,,,Item 12
