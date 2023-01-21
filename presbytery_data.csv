@@ -9,7 +9,7 @@ Central Carolina,41.0,11.0,Item 1
 Central Florida,42.0,48.0,Item 1
 Central Georgia,,,Item 1
 Central Indiana,,,Item 1
-Chesapeake,,,Item 1
+Chesapeake,31.0,36.0,Item 1
 Chicago Metro,18.0,26.0,Item 1
 Columbus Metro,,,Item 1
 Covenant,52.0,37.0,Item 1
@@ -246,7 +246,7 @@ Potomac,,,Item 3
 Providence,51.0,0.0,Item 3
 Rio Grande,,,Item 3
 Rocky Mountain,,,Item 3
-Savannah River,,,Item 3
+Savannah River,5.0,30.0,Item 3
 Siouxlands,,,Item 3
 South Coast,,,Item 3
 South Florida,,,Item 3
@@ -273,7 +273,7 @@ Central Carolina,50.0,0.0,Item 4
 Central Florida,90.0,0.0,Item 4
 Central Georgia,,,Item 4
 Central Indiana,,,Item 4
-Chesapeake,,,Item 4
+Chesapeake,69.0,0.0,Item 4
 Chicago Metro,41.0,1.0,Item 4
 Columbus Metro,,,Item 4
 Covenant,85.0,1.0,Item 4
@@ -361,7 +361,7 @@ Central Carolina,52.0,0.0,Item 5
 Central Florida,1.0,0.0,Item 5
 Central Georgia,,,Item 5
 Central Indiana,,,Item 5
-Chesapeake,,,Item 5
+Chesapeake,71.0,0.0,Item 5
 Chicago Metro,21.0,20.0,Item 5
 Columbus Metro,,,Item 5
 Covenant,76.0,3.0,Item 5
