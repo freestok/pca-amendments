@@ -54,7 +54,7 @@ North Texas,,,Item 1
 Northern California,,,Item 1
 Northern Illinois,11.0,15.0,Item 1
 Northern New England,0.0,1.0,Item 1
-Northwest Georgia,,,Item 1
+Northwest Georgia,34.0,8.0,Item 1
 Ohio,11.0,7.0,Item 1
 Ohio Valley,,,Item 1
 Pacific,,,Item 1
@@ -142,7 +142,7 @@ North Texas,,,Item 2
 Northern California,,,Item 2
 Northern Illinois,30.0,0.0,Item 2
 Northern New England,,,Item 2
-Northwest Georgia,,,Item 2
+Northwest Georgia,44.0,0.0,Item 2
 Ohio,12.0,2.0,Item 2
 Ohio Valley,,,Item 2
 Pacific,,,Item 2
@@ -230,7 +230,7 @@ North Texas,,,Item 3
 Northern California,,,Item 3
 Northern Illinois,30.0,0.0,Item 3
 Northern New England,,,Item 3
-Northwest Georgia,,,Item 3
+Northwest Georgia,6.0,31.0,Item 3
 Ohio,14.0,2.0,Item 3
 Ohio Valley,,,Item 3
 Pacific,,,Item 3
@@ -318,7 +318,7 @@ North Texas,,,Item 4
 Northern California,,,Item 4
 Northern Illinois,29.0,0.0,Item 4
 Northern New England,,,Item 4
-Northwest Georgia,,,Item 4
+Northwest Georgia,42.0,0.0,Item 4
 Ohio,18.0,0.0,Item 4
 Ohio Valley,,,Item 4
 Pacific,,,Item 4
@@ -406,7 +406,7 @@ North Texas,,,Item 5
 Northern California,,,Item 5
 Northern Illinois,21.0,6.0,Item 5
 Northern New England,,,Item 5
-Northwest Georgia,,,Item 5
+Northwest Georgia,42.0,0.0,Item 5
 Ohio,18.0,0.0,Item 5
 Ohio Valley,37.0,0.0,Item 5
 Pacific,,,Item 5
@@ -494,7 +494,7 @@ North Texas,,,Item 6
 Northern California,,,Item 6
 Northern Illinois,30.0,0.0,Item 6
 Northern New England,,,Item 6
-Northwest Georgia,,,Item 6
+Northwest Georgia,33.0,6.0,Item 6
 Ohio,16.0,0.0,Item 6
 Ohio Valley,39.0,0.0,Item 6
 Pacific,,,Item 6
@@ -582,7 +582,7 @@ North Texas,,,Item 7
 Northern California,,,Item 7
 Northern Illinois,2.0,26.0,Item 7
 Northern New England,,,Item 7
-Northwest Georgia,,,Item 7
+Northwest Georgia,23.0,12.0,Item 7
 Ohio,14.0,3.0,Item 7
 Ohio Valley,28.0,9.0,Item 7
 Pacific,,,Item 7
@@ -670,7 +670,7 @@ North Texas,,,Item 8
 Northern California,,,Item 8
 Northern Illinois,28.0,0.0,Item 8
 Northern New England,,,Item 8
-Northwest Georgia,,,Item 8
+Northwest Georgia,33.0,0.0,Item 8
 Ohio,16.0,0.0,Item 8
 Ohio Valley,37.0,1.0,Item 8
 Pacific,,,Item 8
@@ -758,7 +758,7 @@ North Texas,,,Item 9
 Northern California,,,Item 9
 Northern Illinois,29.0,0.0,Item 9
 Northern New England,,,Item 9
-Northwest Georgia,,,Item 9
+Northwest Georgia,40.0,0.0,Item 9
 Ohio,17.0,0.0,Item 9
 Ohio Valley,,,Item 9
 Pacific,,,Item 9
@@ -846,7 +846,7 @@ North Texas,,,Item 10
 Northern California,,,Item 10
 Northern Illinois,29.0,0.0,Item 10
 Northern New England,,,Item 10
-Northwest Georgia,,,Item 10
+Northwest Georgia,38.0,0.0,Item 10
 Ohio,17.0,0.0,Item 10
 Ohio Valley,,,Item 10
 Pacific,,,Item 10
@@ -934,7 +934,7 @@ North Texas,,,Item 11
 Northern California,,,Item 11
 Northern Illinois,29.0,0.0,Item 11
 Northern New England,,,Item 11
-Northwest Georgia,,,Item 11
+Northwest Georgia,33.0,2.0,Item 11
 Ohio,14.0,0.0,Item 11
 Ohio Valley,,,Item 11
 Pacific,,,Item 11
@@ -1022,7 +1022,7 @@ North Texas,,,Item 12
 Northern California,,,Item 12
 Northern Illinois,29.0,0.0,Item 12
 Northern New England,,,Item 12
-Northwest Georgia,,,Item 12
+Northwest Georgia,38.0,1.0,Item 12
 Ohio,2.0,16.0,Item 12
 Ohio Valley,,,Item 12
 Pacific,,,Item 12
