@@ -41,7 +41,7 @@ Korean Southern,,,Item 1
 Korean Southwest,,,Item 1
 Korean Southwest OC,,,Item 1
 Lowcountry Presbytery,1.0,0.0,Item 1
-Metro Atlanta,,,Item 1
+Metro Atlanta,0.0,1.0,Item 1
 Metropolitan New York,1.0,31.0,Item 1
 Mississippi Valley,77.0,4.0,Item 1
 Missouri,,,Item 1
@@ -68,7 +68,7 @@ Pittsburgh,,,Item 1
 Platte Valley,5.0,17.0,Item 1
 Potomac,,,Item 1
 Providence,37.0,13.0,Item 1
-Rio Grande,,,Item 1
+Rio Grande,9.0,20.0,Item 1
 Rocky Mountain,,,Item 1
 Savannah River,39.0,1.0,Item 1
 Siouxlands,,,Item 1
@@ -129,7 +129,7 @@ Korean Southern,,,Item 2
 Korean Southwest,,,Item 2
 Korean Southwest OC,,,Item 2
 Lowcountry Presbytery,20.0,14.0,Item 2
-Metro Atlanta,,,Item 2
+Metro Atlanta,1.0,0.0,Item 2
 Metropolitan New York,32.0,0.0,Item 2
 Mississippi Valley,83.0,0.0,Item 2
 Missouri,,,Item 2
@@ -156,7 +156,7 @@ Pittsburgh,,,Item 2
 Platte Valley,7.0,10.0,Item 2
 Potomac,46.0,1.0,Item 2
 Providence,51.0,0.0,Item 2
-Rio Grande,,,Item 2
+Rio Grande,1.0,0.0,Item 2
 Rocky Mountain,,,Item 2
 Savannah River,39.0,1.0,Item 2
 Siouxlands,,,Item 2
@@ -217,7 +217,7 @@ Korean Southern,,,Item 3
 Korean Southwest,,,Item 3
 Korean Southwest OC,,,Item 3
 Lowcountry Presbytery,34.0,0.0,Item 3
-Metro Atlanta,,,Item 3
+Metro Atlanta,1.0,0.0,Item 3
 Metropolitan New York,32.0,0.0,Item 3
 Mississippi Valley,83.0,0.0,Item 3
 Missouri,,,Item 3
@@ -244,7 +244,7 @@ Pittsburgh,,,Item 3
 Platte Valley,20.0,0.0,Item 3
 Potomac,,,Item 3
 Providence,51.0,0.0,Item 3
-Rio Grande,,,Item 3
+Rio Grande,1.0,0.0,Item 3
 Rocky Mountain,,,Item 3
 Savannah River,5.0,30.0,Item 3
 Siouxlands,,,Item 3
@@ -305,7 +305,7 @@ Korean Southern,,,Item 4
 Korean Southwest,,,Item 4
 Korean Southwest OC,,,Item 4
 Lowcountry Presbytery,34.0,0.0,Item 4
-Metro Atlanta,,,Item 4
+Metro Atlanta,1.0,0.0,Item 4
 Metropolitan New York,9.0,23.0,Item 4
 Mississippi Valley,85.0,0.0,Item 4
 Missouri,,,Item 4
@@ -332,7 +332,7 @@ Pittsburgh,,,Item 4
 Platte Valley,22.0,0.0,Item 4
 Potomac,,,Item 4
 Providence,51.0,0.0,Item 4
-Rio Grande,,,Item 4
+Rio Grande,1.0,0.0,Item 4
 Rocky Mountain,,,Item 4
 Savannah River,37.0,1.0,Item 4
 Siouxlands,,,Item 4
@@ -393,7 +393,7 @@ Korean Southern,,,Item 5
 Korean Southwest,,,Item 5
 Korean Southwest OC,,,Item 5
 Lowcountry Presbytery,34.0,0.0,Item 5
-Metro Atlanta,,,Item 5
+Metro Atlanta,0.0,1.0,Item 5
 Metropolitan New York,2.0,26.0,Item 5
 Mississippi Valley,85.0,0.0,Item 5
 Missouri,,,Item 5
@@ -420,7 +420,7 @@ Pittsburgh,,,Item 5
 Platte Valley,9.0,12.0,Item 5
 Potomac,,,Item 5
 Providence,52.0,3.0,Item 5
-Rio Grande,,,Item 5
+Rio Grande,1.0,0.0,Item 5
 Rocky Mountain,,,Item 5
 Savannah River,27.0,10.0,Item 5
 Siouxlands,,,Item 5
@@ -481,7 +481,7 @@ Korean Southern,,,Item 6
 Korean Southwest,,,Item 6
 Korean Southwest OC,,,Item 6
 Lowcountry Presbytery,34.0,0.0,Item 6
-Metro Atlanta,,,Item 6
+Metro Atlanta,1.0,0.0,Item 6
 Metropolitan New York,32.0,0.0,Item 6
 Mississippi Valley,85.0,0.0,Item 6
 Missouri,,,Item 6
@@ -508,7 +508,7 @@ Pittsburgh,,,Item 6
 Platte Valley,22.0,0.0,Item 6
 Potomac,,,Item 6
 Providence,51.0,0.0,Item 6
-Rio Grande,,,Item 6
+Rio Grande,1.0,0.0,Item 6
 Rocky Mountain,,,Item 6
 Savannah River,37.0,1.0,Item 6
 Siouxlands,,,Item 6
@@ -569,7 +569,7 @@ Korean Southern,,,Item 7
 Korean Southwest,,,Item 7
 Korean Southwest OC,,,Item 7
 Lowcountry Presbytery,13.0,15.0,Item 7
-Metro Atlanta,,,Item 7
+Metro Atlanta,0.0,1.0,Item 7
 Metropolitan New York,2.0,21.0,Item 7
 Mississippi Valley,80.0,5.0,Item 7
 Missouri,,,Item 7
@@ -596,7 +596,7 @@ Pittsburgh,,,Item 7
 Platte Valley,5.0,10.0,Item 7
 Potomac,7.0,37.0,Item 7
 Providence,43.0,8.0,Item 7
-Rio Grande,,,Item 7
+Rio Grande,0.0,1.0,Item 7
 Rocky Mountain,,,Item 7
 Savannah River,22.0,17.0,Item 7
 Siouxlands,,,Item 7
@@ -657,7 +657,7 @@ Korean Southern,,,Item 8
 Korean Southwest,,,Item 8
 Korean Southwest OC,,,Item 8
 Lowcountry Presbytery,34.0,0.0,Item 8
-Metro Atlanta,,,Item 8
+Metro Atlanta,1.0,0.0,Item 8
 Metropolitan New York,32.0,0.0,Item 8
 Mississippi Valley,86.0,0.0,Item 8
 Missouri,,,Item 8
@@ -684,7 +684,7 @@ Pittsburgh,,,Item 8
 Platte Valley,22.0,0.0,Item 8
 Potomac,,,Item 8
 Providence,51.0,0.0,Item 8
-Rio Grande,,,Item 8
+Rio Grande,1.0,0.0,Item 8
 Rocky Mountain,,,Item 8
 Savannah River,38.0,0.0,Item 8
 Siouxlands,,,Item 8
@@ -745,7 +745,7 @@ Korean Southern,,,Item 9
 Korean Southwest,,,Item 9
 Korean Southwest OC,,,Item 9
 Lowcountry Presbytery,34.0,0.0,Item 9
-Metro Atlanta,,,Item 9
+Metro Atlanta,1.0,0.0,Item 9
 Metropolitan New York,32.0,0.0,Item 9
 Mississippi Valley,85.0,0.0,Item 9
 Missouri,,,Item 9
@@ -772,7 +772,7 @@ Pittsburgh,,,Item 9
 Platte Valley,22.0,0.0,Item 9
 Potomac,,,Item 9
 Providence,51.0,0.0,Item 9
-Rio Grande,,,Item 9
+Rio Grande,1.0,0.0,Item 9
 Rocky Mountain,,,Item 9
 Savannah River,39.0,0.0,Item 9
 Siouxlands,,,Item 9
@@ -833,7 +833,7 @@ Korean Southern,,,Item 10
 Korean Southwest,,,Item 10
 Korean Southwest OC,,,Item 10
 Lowcountry Presbytery,34.0,0.0,Item 10
-Metro Atlanta,,,Item 10
+Metro Atlanta,1.0,0.0,Item 10
 Metropolitan New York,32.0,0.0,Item 10
 Mississippi Valley,84.0,0.0,Item 10
 Missouri,,,Item 10
@@ -860,7 +860,7 @@ Pittsburgh,,,Item 10
 Platte Valley,22.0,0.0,Item 10
 Potomac,,,Item 10
 Providence,51.0,0.0,Item 10
-Rio Grande,,,Item 10
+Rio Grande,1.0,0.0,Item 10
 Rocky Mountain,,,Item 10
 Savannah River,40.0,0.0,Item 10
 Siouxlands,,,Item 10
@@ -921,7 +921,7 @@ Korean Southern,,,Item 11
 Korean Southwest,,,Item 11
 Korean Southwest OC,,,Item 11
 Lowcountry Presbytery,34.0,0.0,Item 11
-Metro Atlanta,,,Item 11
+Metro Atlanta,1.0,0.0,Item 11
 Metropolitan New York,32.0,0.0,Item 11
 Mississippi Valley,85.0,0.0,Item 11
 Missouri,,,Item 11
@@ -948,7 +948,7 @@ Pittsburgh,,,Item 11
 Platte Valley,7.0,13.0,Item 11
 Potomac,,,Item 11
 Providence,51.0,0.0,Item 11
-Rio Grande,,,Item 11
+Rio Grande,1.0,0.0,Item 11
 Rocky Mountain,,,Item 11
 Savannah River,38.0,1.0,Item 11
 Siouxlands,,,Item 11
@@ -1009,7 +1009,7 @@ Korean Southern,,,Item 12
 Korean Southwest,,,Item 12
 Korean Southwest OC,,,Item 12
 Lowcountry Presbytery,34.0,0.0,Item 12
-Metro Atlanta,,,Item 12
+Metro Atlanta,1.0,0.0,Item 12
 Metropolitan New York,32.0,0.0,Item 12
 Mississippi Valley,86.0,0.0,Item 12
 Missouri,,,Item 12
@@ -1036,7 +1036,7 @@ Pittsburgh,,,Item 12
 Platte Valley,14.0,3.0,Item 12
 Potomac,51.0,0.0,Item 12
 Providence,51.0,0.0,Item 12
-Rio Grande,,,Item 12
+Rio Grande,1.0,0.0,Item 12
 Rocky Mountain,,,Item 12
 Savannah River,36.0,2.0,Item 12
 Siouxlands,,,Item 12
