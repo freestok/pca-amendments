@@ -77,7 +77,7 @@ South Florida,,,Item 1
 South Texas,23.0,29.0,Item 1
 Southeast Alabama,42.0,2.0,Item 1
 Southern Louisiana,10.0,13.0,Item 1
-Southern New England,,,Item 1
+Southern New England,29.0,39.0,Item 1
 Southwest Florida,51.0,14.0,Item 1
 Suncoast Florida,,,Item 1
 Susquehanna Valley,45.0,12.0,Item 1
@@ -165,7 +165,7 @@ South Florida,,,Item 2
 South Texas,50.0,1.0,Item 2
 Southeast Alabama,42.0,0.0,Item 2
 Southern Louisiana,19.0,0.0,Item 2
-Southern New England,,,Item 2
+Southern New England,68.0,0.0,Item 2
 Southwest Florida,52.0,9.0,Item 2
 Suncoast Florida,,,Item 2
 Susquehanna Valley,30.0,3.0,Item 2
@@ -253,7 +253,7 @@ South Florida,,,Item 3
 South Texas,50.0,1.0,Item 3
 Southeast Alabama,42.0,0.0,Item 3
 Southern Louisiana,11.0,3.0,Item 3
-Southern New England,,,Item 3
+Southern New England,35.0,22.0,Item 3
 Southwest Florida,0.0,58.0,Item 3
 Suncoast Florida,,,Item 3
 Susquehanna Valley,34.0,6.0,Item 3
@@ -341,7 +341,7 @@ South Florida,,,Item 4
 South Texas,51.0,0.0,Item 4
 Southeast Alabama,42.0,0.0,Item 4
 Southern Louisiana,21.0,0.0,Item 4
-Southern New England,,,Item 4
+Southern New England,58.0,4.0,Item 4
 Southwest Florida,61.0,0.0,Item 4
 Suncoast Florida,,,Item 4
 Susquehanna Valley,52.0,3.0,Item 4
@@ -429,7 +429,7 @@ South Florida,,,Item 5
 South Texas,52.0,0.0,Item 5
 Southeast Alabama,42.0,0.0,Item 5
 Southern Louisiana,14.0,5.0,Item 5
-Southern New England,,,Item 5
+Southern New England,35.0,28.0,Item 5
 Southwest Florida,59.0,2.0,Item 5
 Suncoast Florida,,,Item 5
 Susquehanna Valley,46.0,11.0,Item 5
@@ -517,7 +517,7 @@ South Florida,,,Item 6
 South Texas,50.0,1.0,Item 6
 Southeast Alabama,42.0,0.0,Item 6
 Southern Louisiana,25.0,0.0,Item 6
-Southern New England,,,Item 6
+Southern New England,65.0,0.0,Item 6
 Southwest Florida,64.0,0.0,Item 6
 Suncoast Florida,,,Item 6
 Susquehanna Valley,24.0,19.0,Item 6
@@ -605,7 +605,7 @@ South Florida,,,Item 7
 South Texas,6.0,43.0,Item 7
 Southeast Alabama,42.0,1.0,Item 7
 Southern Louisiana,1.0,17.0,Item 7
-Southern New England,,,Item 7
+Southern New England,35.0,19.0,Item 7
 Southwest Florida,4.0,54.0,Item 7
 Suncoast Florida,,,Item 7
 Susquehanna Valley,29.0,14.0,Item 7
@@ -693,7 +693,7 @@ South Florida,,,Item 8
 South Texas,47.0,4.0,Item 8
 Southeast Alabama,23.0,15.0,Item 8
 Southern Louisiana,21.0,0.0,Item 8
-Southern New England,,,Item 8
+Southern New England,62.0,0.0,Item 8
 Southwest Florida,57.0,2.0,Item 8
 Suncoast Florida,,,Item 8
 Susquehanna Valley,51.0,1.0,Item 8
@@ -781,7 +781,7 @@ South Florida,,,Item 9
 South Texas,50.0,1.0,Item 9
 Southeast Alabama,42.0,0.0,Item 9
 Southern Louisiana,21.0,0.0,Item 9
-Southern New England,,,Item 9
+Southern New England,63.0,0.0,Item 9
 Southwest Florida,59.0,0.0,Item 9
 Suncoast Florida,,,Item 9
 Susquehanna Valley,52.0,1.0,Item 9
@@ -869,7 +869,7 @@ South Florida,,,Item 10
 South Texas,50.0,1.0,Item 10
 Southeast Alabama,42.0,0.0,Item 10
 Southern Louisiana,19.0,0.0,Item 10
-Southern New England,,,Item 10
+Southern New England,65.0,0.0,Item 10
 Southwest Florida,57.0,0.0,Item 10
 Suncoast Florida,,,Item 10
 Susquehanna Valley,45.0,8.0,Item 10
@@ -957,7 +957,7 @@ South Florida,,,Item 11
 South Texas,50.0,1.0,Item 11
 Southeast Alabama,42.0,0.0,Item 11
 Southern Louisiana,19.0,0.0,Item 11
-Southern New England,,,Item 11
+Southern New England,65.0,0.0,Item 11
 Southwest Florida,60.0,0.0,Item 11
 Suncoast Florida,,,Item 11
 Susquehanna Valley,26.0,21.0,Item 11
@@ -1045,7 +1045,7 @@ South Florida,,,Item 12
 South Texas,48.0,5.0,Item 12
 Southeast Alabama,42.0,0.0,Item 12
 Southern Louisiana,19.0,0.0,Item 12
-Southern New England,,,Item 12
+Southern New England,66.0,0.0,Item 12
 Southwest Florida,21.0,27.0,Item 12
 Suncoast Florida,,,Item 12
 Susquehanna Valley,46.0,5.0,Item 12
