@@ -69,7 +69,7 @@ Platte Valley,5.0,17.0,Item 1
 Potomac,,,Item 1
 Providence,37.0,13.0,Item 1
 Rio Grande,9.0,20.0,Item 1
-Rocky Mountain,,,Item 1
+Rocky Mountain,32.0,47.0,Item 1
 Savannah River,39.0,1.0,Item 1
 Siouxlands,,,Item 1
 South Coast,28.0,25.0,Item 1
@@ -157,7 +157,7 @@ Platte Valley,7.0,10.0,Item 2
 Potomac,46.0,1.0,Item 2
 Providence,51.0,0.0,Item 2
 Rio Grande,1.0,0.0,Item 2
-Rocky Mountain,,,Item 2
+Rocky Mountain,77.0,0.0,Item 2
 Savannah River,39.0,1.0,Item 2
 Siouxlands,,,Item 2
 South Coast,1.0,0.0,Item 2
@@ -245,7 +245,7 @@ Platte Valley,20.0,0.0,Item 3
 Potomac,,,Item 3
 Providence,51.0,0.0,Item 3
 Rio Grande,1.0,0.0,Item 3
-Rocky Mountain,,,Item 3
+Rocky Mountain,44.0,26.0,Item 3
 Savannah River,5.0,30.0,Item 3
 Siouxlands,,,Item 3
 South Coast,1.0,0.0,Item 3
@@ -333,7 +333,7 @@ Platte Valley,22.0,0.0,Item 4
 Potomac,,,Item 4
 Providence,51.0,0.0,Item 4
 Rio Grande,1.0,0.0,Item 4
-Rocky Mountain,,,Item 4
+Rocky Mountain,75.0,0.0,Item 4
 Savannah River,37.0,1.0,Item 4
 Siouxlands,,,Item 4
 South Coast,1.0,0.0,Item 4
@@ -421,7 +421,7 @@ Platte Valley,9.0,12.0,Item 5
 Potomac,,,Item 5
 Providence,52.0,3.0,Item 5
 Rio Grande,1.0,0.0,Item 5
-Rocky Mountain,,,Item 5
+Rocky Mountain,75.0,0.0,Item 5
 Savannah River,27.0,10.0,Item 5
 Siouxlands,,,Item 5
 South Coast,43.0,10.0,Item 5
@@ -509,7 +509,7 @@ Platte Valley,22.0,0.0,Item 6
 Potomac,,,Item 6
 Providence,51.0,0.0,Item 6
 Rio Grande,1.0,0.0,Item 6
-Rocky Mountain,,,Item 6
+Rocky Mountain,65.0,0.0,Item 6
 Savannah River,37.0,1.0,Item 6
 Siouxlands,,,Item 6
 South Coast,50.0,3.0,Item 6
@@ -597,7 +597,7 @@ Platte Valley,5.0,10.0,Item 7
 Potomac,7.0,37.0,Item 7
 Providence,43.0,8.0,Item 7
 Rio Grande,0.0,1.0,Item 7
-Rocky Mountain,,,Item 7
+Rocky Mountain,55.0,17.0,Item 7
 Savannah River,22.0,17.0,Item 7
 Siouxlands,,,Item 7
 South Coast,38.0,12.0,Item 7
@@ -685,7 +685,7 @@ Platte Valley,22.0,0.0,Item 8
 Potomac,,,Item 8
 Providence,51.0,0.0,Item 8
 Rio Grande,1.0,0.0,Item 8
-Rocky Mountain,,,Item 8
+Rocky Mountain,70.0,0.0,Item 8
 Savannah River,38.0,0.0,Item 8
 Siouxlands,,,Item 8
 South Coast,45.0,5.0,Item 8
@@ -773,7 +773,7 @@ Platte Valley,22.0,0.0,Item 9
 Potomac,,,Item 9
 Providence,51.0,0.0,Item 9
 Rio Grande,1.0,0.0,Item 9
-Rocky Mountain,,,Item 9
+Rocky Mountain,70.0,0.0,Item 9
 Savannah River,39.0,0.0,Item 9
 Siouxlands,,,Item 9
 South Coast,1.0,0.0,Item 9
@@ -861,7 +861,7 @@ Platte Valley,22.0,0.0,Item 10
 Potomac,,,Item 10
 Providence,51.0,0.0,Item 10
 Rio Grande,1.0,0.0,Item 10
-Rocky Mountain,,,Item 10
+Rocky Mountain,71.0,0.0,Item 10
 Savannah River,40.0,0.0,Item 10
 Siouxlands,,,Item 10
 South Coast,1.0,0.0,Item 10
@@ -949,7 +949,7 @@ Platte Valley,7.0,13.0,Item 11
 Potomac,,,Item 11
 Providence,51.0,0.0,Item 11
 Rio Grande,1.0,0.0,Item 11
-Rocky Mountain,,,Item 11
+Rocky Mountain,1.0,55.0,Item 11
 Savannah River,38.0,1.0,Item 11
 Siouxlands,,,Item 11
 South Coast,1.0,0.0,Item 11
@@ -1037,7 +1037,7 @@ Platte Valley,14.0,3.0,Item 12
 Potomac,51.0,0.0,Item 12
 Providence,51.0,0.0,Item 12
 Rio Grande,1.0,0.0,Item 12
-Rocky Mountain,,,Item 12
+Rocky Mountain,71.0,0.0,Item 12
 Savannah River,36.0,2.0,Item 12
 Siouxlands,,,Item 12
 South Coast,1.0,0.0,Item 12
