@@ -17,8 +17,8 @@ Eastern Canada,,,Item 1
 Eastern Carolina,22.0,27.0,Item 1
 Eastern Pennsylvania,12.0,15.0,Item 1
 Evangel,,,Item 1
-Fellowship,1.0,0.0,Item 1
-Georgia Foothills,,,Item 1
+Fellowship,33.0,4.0,Item 1
+Georgia Foothills,0.0,1.0,Item 1
 Grace,43.0,7.0,Item 1
 Great Lakes,45.0,9.0,Item 1
 Gulf Coast,35.0,2.0,Item 1
@@ -105,8 +105,8 @@ Eastern Canada,,,Item 2
 Eastern Carolina,50.0,0.0,Item 2
 Eastern Pennsylvania,27.0,0.0,Item 2
 Evangel,,,Item 2
-Fellowship,,,Item 2
-Georgia Foothills,,,Item 2
+Fellowship,36.0,0.0,Item 2
+Georgia Foothills,1.0,0.0,Item 2
 Grace,47.0,0.0,Item 2
 Great Lakes,46.0,1.0,Item 2
 Gulf Coast,37.0,0.0,Item 2
@@ -193,8 +193,8 @@ Eastern Canada,,,Item 3
 Eastern Carolina,45.0,1.0,Item 3
 Eastern Pennsylvania,24.0,0.0,Item 3
 Evangel,,,Item 3
-Fellowship,,,Item 3
-Georgia Foothills,,,Item 3
+Fellowship,37.0,1.0,Item 3
+Georgia Foothills,1.0,0.0,Item 3
 Grace,28.0,13.0,Item 3
 Great Lakes,46.0,1.0,Item 3
 Gulf Coast,37.0,0.0,Item 3
@@ -281,8 +281,8 @@ Eastern Canada,35.0,0.0,Item 4
 Eastern Carolina,51.0,0.0,Item 4
 Eastern Pennsylvania,27.0,0.0,Item 4
 Evangel,,,Item 4
-Fellowship,,,Item 4
-Georgia Foothills,,,Item 4
+Fellowship,38.0,0.0,Item 4
+Georgia Foothills,1.0,0.0,Item 4
 Grace,41.0,0.0,Item 4
 Great Lakes,46.0,1.0,Item 4
 Gulf Coast,36.0,1.0,Item 4
@@ -369,8 +369,8 @@ Eastern Canada,26.0,5.0,Item 5
 Eastern Carolina,43.0,4.0,Item 5
 Eastern Pennsylvania,27.0,0.0,Item 5
 Evangel,,,Item 5
-Fellowship,,,Item 5
-Georgia Foothills,,,Item 5
+Fellowship,38.0,0.0,Item 5
+Georgia Foothills,1.0,0.0,Item 5
 Grace,43.0,0.0,Item 5
 Great Lakes,46.0,1.0,Item 5
 Gulf Coast,37.0,1.0,Item 5
@@ -457,8 +457,8 @@ Eastern Canada,,,Item 6
 Eastern Carolina,52.0,0.0,Item 6
 Eastern Pennsylvania,27.0,0.0,Item 6
 Evangel,,,Item 6
-Fellowship,,,Item 6
-Georgia Foothills,,,Item 6
+Fellowship,38.0,0.0,Item 6
+Georgia Foothills,1.0,0.0,Item 6
 Grace,37.0,0.0,Item 6
 Great Lakes,46.0,1.0,Item 6
 Gulf Coast,37.0,0.0,Item 6
@@ -545,8 +545,8 @@ Eastern Canada,,,Item 7
 Eastern Carolina,5.0,36.0,Item 7
 Eastern Pennsylvania,17.0,6.0,Item 7
 Evangel,,,Item 7
-Fellowship,,,Item 7
-Georgia Foothills,,,Item 7
+Fellowship,16.0,17.0,Item 7
+Georgia Foothills,1.0,0.0,Item 7
 Grace,13.0,27.0,Item 7
 Great Lakes,52.0,2.0,Item 7
 Gulf Coast,27.0,10.0,Item 7
@@ -633,8 +633,8 @@ Eastern Canada,,,Item 8
 Eastern Carolina,52.0,0.0,Item 8
 Eastern Pennsylvania,24.0,1.0,Item 8
 Evangel,,,Item 8
-Fellowship,,,Item 8
-Georgia Foothills,,,Item 8
+Fellowship,37.0,0.0,Item 8
+Georgia Foothills,1.0,0.0,Item 8
 Grace,41.0,0.0,Item 8
 Great Lakes,46.0,1.0,Item 8
 Gulf Coast,37.0,0.0,Item 8
@@ -721,8 +721,8 @@ Eastern Canada,,,Item 9
 Eastern Carolina,53.0,0.0,Item 9
 Eastern Pennsylvania,26.0,0.0,Item 9
 Evangel,,,Item 9
-Fellowship,,,Item 9
-Georgia Foothills,,,Item 9
+Fellowship,38.0,0.0,Item 9
+Georgia Foothills,1.0,0.0,Item 9
 Grace,43.0,0.0,Item 9
 Great Lakes,46.0,1.0,Item 9
 Gulf Coast,37.0,0.0,Item 9
@@ -809,8 +809,8 @@ Eastern Canada,,,Item 10
 Eastern Carolina,49.0,0.0,Item 10
 Eastern Pennsylvania,26.0,0.0,Item 10
 Evangel,,,Item 10
-Fellowship,,,Item 10
-Georgia Foothills,,,Item 10
+Fellowship,36.0,0.0,Item 10
+Georgia Foothills,1.0,0.0,Item 10
 Grace,46.0,0.0,Item 10
 Great Lakes,46.0,1.0,Item 10
 Gulf Coast,37.0,0.0,Item 10
@@ -897,8 +897,8 @@ Eastern Canada,,,Item 11
 Eastern Carolina,48.0,0.0,Item 11
 Eastern Pennsylvania,27.0,0.0,Item 11
 Evangel,,,Item 11
-Fellowship,,,Item 11
-Georgia Foothills,,,Item 11
+Fellowship,37.0,0.0,Item 11
+Georgia Foothills,1.0,0.0,Item 11
 Grace,40.0,0.0,Item 11
 Great Lakes,46.0,1.0,Item 11
 Gulf Coast,37.0,0.0,Item 11
@@ -985,8 +985,8 @@ Eastern Canada,,,Item 12
 Eastern Carolina,50.0,0.0,Item 12
 Eastern Pennsylvania,26.0,0.0,Item 12
 Evangel,,,Item 12
-Fellowship,,,Item 12
-Georgia Foothills,,,Item 12
+Fellowship,38.0,0.0,Item 12
+Georgia Foothills,1.0,0.0,Item 12
 Grace,45.0,0.0,Item 12
 Great Lakes,46.0,1.0,Item 12
 Gulf Coast,37.0,0.0,Item 12
