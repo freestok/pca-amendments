@@ -1,10 +1,10 @@
 presbytery,for,against,item
 Arizona,2.0,33.0,Item 1
 Ascension,28.0,7.0,Item 1
-Blue Ridge,,,Item 1
-Calvary,,,Item 1
+Blue Ridge,38.0,36.0,Item 1
+Calvary,61.0,31.0,Item 1
 Canada West,22.0,7.0,Item 1
-Catawba Valley,,,Item 1
+Catawba Valley,31.0,6.0,Item 1
 Central Carolina,41.0,11.0,Item 1
 Central Florida,42.0,48.0,Item 1
 Central Georgia,,,Item 1
@@ -14,17 +14,17 @@ Chicago Metro,18.0,26.0,Item 1
 Columbus Metro,,,Item 1
 Covenant,52.0,37.0,Item 1
 Eastern Canada,,,Item 1
-Eastern Carolina,,,Item 1
+Eastern Carolina,22.0,27.0,Item 1
 Eastern Pennsylvania,12.0,15.0,Item 1
 Evangel,,,Item 1
-Fellowship,,,Item 1
+Fellowship,1.0,0.0,Item 1
 Georgia Foothills,,,Item 1
 Grace,43.0,7.0,Item 1
 Great Lakes,45.0,9.0,Item 1
 Gulf Coast,35.0,2.0,Item 1
 Gulfstream,26.0,11.0,Item 1
 Heartland,21.0,4.0,Item 1
-Heritage,,,Item 1
+Heritage,19.0,20.0,Item 1
 Highlands,41.0,18.0,Item 1
 Hills and Plains,24.0,21.0,Item 1
 Houston Metro,34.0,16.0,Item 1
@@ -56,7 +56,7 @@ Northern Illinois,11.0,15.0,Item 1
 Northern New England,0.0,1.0,Item 1
 Northwest Georgia,34.0,8.0,Item 1
 Ohio,11.0,7.0,Item 1
-Ohio Valley,,,Item 1
+Ohio Valley,17.0,28.0,Item 1
 Pacific,,,Item 1
 Pacific Northwest,21.0,37.0,Item 1
 Palmetto,41.0,37.0,Item 1
@@ -64,7 +64,7 @@ Pee Dee,35.0,0.0,Item 1
 Philadelphia,,,Item 1
 Philadelphia Metro West,,,Item 1
 Piedmont Triad,18.0,22.0,Item 1
-Pittsburgh,,,Item 1
+Pittsburgh,39.0,15.0,Item 1
 Platte Valley,5.0,17.0,Item 1
 Potomac,,,Item 1
 Providence,37.0,13.0,Item 1
@@ -86,13 +86,13 @@ Tidewater,,,Item 1
 Warrior,16.0,14.0,Item 1
 West Hudson,13.0,13.0,Item 1
 Westminster,26.0,2.0,Item 1
-Wisconsin,,,Item 1
+Wisconsin,24.0,26.0,Item 1
 Arizona,31.0,0.0,Item 2
 Ascension,33.0,0.0,Item 2
 Blue Ridge,,,Item 2
-Calvary,,,Item 2
+Calvary,92.0,0.0,Item 2
 Canada West,26.0,0.0,Item 2
-Catawba Valley,,,Item 2
+Catawba Valley,38.0,0.0,Item 2
 Central Carolina,51.0,0.0,Item 2
 Central Florida,61.0,0.0,Item 2
 Central Georgia,,,Item 2
@@ -102,7 +102,7 @@ Chicago Metro,37.0,0.0,Item 2
 Columbus Metro,,,Item 2
 Covenant,76.0,4.0,Item 2
 Eastern Canada,,,Item 2
-Eastern Carolina,,,Item 2
+Eastern Carolina,50.0,0.0,Item 2
 Eastern Pennsylvania,27.0,0.0,Item 2
 Evangel,,,Item 2
 Fellowship,,,Item 2
@@ -112,7 +112,7 @@ Great Lakes,46.0,1.0,Item 2
 Gulf Coast,37.0,0.0,Item 2
 Gulfstream,35.0,0.0,Item 2
 Heartland,25.0,0.0,Item 2
-Heritage,,,Item 2
+Heritage,35.0,0.0,Item 2
 Highlands,58.0,0.0,Item 2
 Hills and Plains,41.0,0.0,Item 2
 Houston Metro,50.0,0.0,Item 2
@@ -144,7 +144,7 @@ Northern Illinois,30.0,0.0,Item 2
 Northern New England,,,Item 2
 Northwest Georgia,44.0,0.0,Item 2
 Ohio,12.0,2.0,Item 2
-Ohio Valley,,,Item 2
+Ohio Valley,42.0,0.0,Item 2
 Pacific,,,Item 2
 Pacific Northwest,46.0,0.0,Item 2
 Palmetto,76.0,0.0,Item 2
@@ -152,7 +152,7 @@ Pee Dee,40.0,0.0,Item 2
 Philadelphia,,,Item 2
 Philadelphia Metro West,,,Item 2
 Piedmont Triad,38.0,0.0,Item 2
-Pittsburgh,,,Item 2
+Pittsburgh,48.0,0.0,Item 2
 Platte Valley,7.0,10.0,Item 2
 Potomac,46.0,1.0,Item 2
 Providence,51.0,0.0,Item 2
@@ -178,9 +178,9 @@ Wisconsin,17.0,7.0,Item 2
 Arizona,8.0,19.0,Item 3
 Ascension,34.0,1.0,Item 3
 Blue Ridge,,,Item 3
-Calvary,,,Item 3
+Calvary,93.0,0.0,Item 3
 Canada West,25.0,0.0,Item 3
-Catawba Valley,,,Item 3
+Catawba Valley,37.0,1.0,Item 3
 Central Carolina,51.0,0.0,Item 3
 Central Florida,60.0,1.0,Item 3
 Central Georgia,,,Item 3
@@ -190,7 +190,7 @@ Chicago Metro,42.0,0.0,Item 3
 Columbus Metro,,,Item 3
 Covenant,1.0,77.0,Item 3
 Eastern Canada,,,Item 3
-Eastern Carolina,,,Item 3
+Eastern Carolina,45.0,1.0,Item 3
 Eastern Pennsylvania,24.0,0.0,Item 3
 Evangel,,,Item 3
 Fellowship,,,Item 3
@@ -200,7 +200,7 @@ Great Lakes,46.0,1.0,Item 3
 Gulf Coast,37.0,0.0,Item 3
 Gulfstream,35.0,0.0,Item 3
 Heartland,25.0,0.0,Item 3
-Heritage,,,Item 3
+Heritage,35.0,0.0,Item 3
 Highlands,28.0,27.0,Item 3
 Hills and Plains,,,Item 3
 Houston Metro,50.0,0.0,Item 3
@@ -232,7 +232,7 @@ Northern Illinois,30.0,0.0,Item 3
 Northern New England,,,Item 3
 Northwest Georgia,6.0,31.0,Item 3
 Ohio,14.0,2.0,Item 3
-Ohio Valley,,,Item 3
+Ohio Valley,40.0,2.0,Item 3
 Pacific,,,Item 3
 Pacific Northwest,46.0,0.0,Item 3
 Palmetto,76.0,1.0,Item 3
@@ -240,7 +240,7 @@ Pee Dee,13.0,25.0,Item 3
 Philadelphia,,,Item 3
 Philadelphia Metro West,,,Item 3
 Piedmont Triad,38.0,0.0,Item 3
-Pittsburgh,,,Item 3
+Pittsburgh,50.0,1.0,Item 3
 Platte Valley,20.0,0.0,Item 3
 Potomac,,,Item 3
 Providence,51.0,0.0,Item 3
@@ -266,9 +266,9 @@ Wisconsin,31.0,1.0,Item 3
 Arizona,31.0,0.0,Item 4
 Ascension,32.0,1.0,Item 4
 Blue Ridge,,,Item 4
-Calvary,,,Item 4
+Calvary,85.0,0.0,Item 4
 Canada West,28.0,0.0,Item 4
-Catawba Valley,,,Item 4
+Catawba Valley,38.0,0.0,Item 4
 Central Carolina,50.0,0.0,Item 4
 Central Florida,90.0,0.0,Item 4
 Central Georgia,,,Item 4
@@ -278,7 +278,7 @@ Chicago Metro,41.0,1.0,Item 4
 Columbus Metro,,,Item 4
 Covenant,85.0,1.0,Item 4
 Eastern Canada,35.0,0.0,Item 4
-Eastern Carolina,,,Item 4
+Eastern Carolina,51.0,0.0,Item 4
 Eastern Pennsylvania,27.0,0.0,Item 4
 Evangel,,,Item 4
 Fellowship,,,Item 4
@@ -288,7 +288,7 @@ Great Lakes,46.0,1.0,Item 4
 Gulf Coast,36.0,1.0,Item 4
 Gulfstream,35.0,0.0,Item 4
 Heartland,25.0,0.0,Item 4
-Heritage,,,Item 4
+Heritage,39.0,0.0,Item 4
 Highlands,54.0,4.0,Item 4
 Hills and Plains,39.0,1.0,Item 4
 Houston Metro,38.0,12.0,Item 4
@@ -320,7 +320,7 @@ Northern Illinois,29.0,0.0,Item 4
 Northern New England,,,Item 4
 Northwest Georgia,42.0,0.0,Item 4
 Ohio,18.0,0.0,Item 4
-Ohio Valley,,,Item 4
+Ohio Valley,42.0,1.0,Item 4
 Pacific,,,Item 4
 Pacific Northwest,52.0,3.0,Item 4
 Palmetto,69.0,1.0,Item 4
@@ -328,7 +328,7 @@ Pee Dee,39.0,0.0,Item 4
 Philadelphia,,,Item 4
 Philadelphia Metro West,,,Item 4
 Piedmont Triad,22.0,15.0,Item 4
-Pittsburgh,,,Item 4
+Pittsburgh,53.0,0.0,Item 4
 Platte Valley,22.0,0.0,Item 4
 Potomac,,,Item 4
 Providence,51.0,0.0,Item 4
@@ -354,9 +354,9 @@ Wisconsin,18.0,8.0,Item 4
 Arizona,31.0,0.0,Item 5
 Ascension,33.0,1.0,Item 5
 Blue Ridge,,,Item 5
-Calvary,,,Item 5
+Calvary,93.0,0.0,Item 5
 Canada West,24.0,0.0,Item 5
-Catawba Valley,,,Item 5
+Catawba Valley,38.0,0.0,Item 5
 Central Carolina,52.0,0.0,Item 5
 Central Florida,1.0,0.0,Item 5
 Central Georgia,,,Item 5
@@ -366,7 +366,7 @@ Chicago Metro,21.0,20.0,Item 5
 Columbus Metro,,,Item 5
 Covenant,76.0,3.0,Item 5
 Eastern Canada,26.0,5.0,Item 5
-Eastern Carolina,,,Item 5
+Eastern Carolina,43.0,4.0,Item 5
 Eastern Pennsylvania,27.0,0.0,Item 5
 Evangel,,,Item 5
 Fellowship,,,Item 5
@@ -376,7 +376,7 @@ Great Lakes,46.0,1.0,Item 5
 Gulf Coast,37.0,1.0,Item 5
 Gulfstream,35.0,0.0,Item 5
 Heartland,25.0,0.0,Item 5
-Heritage,,,Item 5
+Heritage,35.0,4.0,Item 5
 Highlands,51.0,6.0,Item 5
 Hills and Plains,34.0,3.0,Item 5
 Houston Metro,50.0,0.0,Item 5
@@ -416,7 +416,7 @@ Pee Dee,38.0,0.0,Item 5
 Philadelphia,,,Item 5
 Philadelphia Metro West,,,Item 5
 Piedmont Triad,34.0,7.0,Item 5
-Pittsburgh,,,Item 5
+Pittsburgh,49.0,1.0,Item 5
 Platte Valley,9.0,12.0,Item 5
 Potomac,,,Item 5
 Providence,52.0,3.0,Item 5
@@ -442,9 +442,9 @@ Wisconsin,18.0,8.0,Item 5
 Arizona,31.0,0.0,Item 6
 Ascension,35.0,0.0,Item 6
 Blue Ridge,,,Item 6
-Calvary,,,Item 6
+Calvary,93.0,0.0,Item 6
 Canada West,26.0,0.0,Item 6
-Catawba Valley,,,Item 6
+Catawba Valley,38.0,0.0,Item 6
 Central Carolina,48.0,3.0,Item 6
 Central Florida,61.0,0.0,Item 6
 Central Georgia,,,Item 6
@@ -454,7 +454,7 @@ Chicago Metro,43.0,0.0,Item 6
 Columbus Metro,,,Item 6
 Covenant,5.0,74.0,Item 6
 Eastern Canada,,,Item 6
-Eastern Carolina,,,Item 6
+Eastern Carolina,52.0,0.0,Item 6
 Eastern Pennsylvania,27.0,0.0,Item 6
 Evangel,,,Item 6
 Fellowship,,,Item 6
@@ -464,7 +464,7 @@ Great Lakes,46.0,1.0,Item 6
 Gulf Coast,37.0,0.0,Item 6
 Gulfstream,35.0,0.0,Item 6
 Heartland,,,Item 6
-Heritage,,,Item 6
+Heritage,35.0,0.0,Item 6
 Highlands,36.0,17.0,Item 6
 Hills and Plains,,,Item 6
 Houston Metro,50.0,0.0,Item 6
@@ -504,7 +504,7 @@ Pee Dee,37.0,0.0,Item 6
 Philadelphia,,,Item 6
 Philadelphia Metro West,,,Item 6
 Piedmont Triad,39.0,0.0,Item 6
-Pittsburgh,,,Item 6
+Pittsburgh,40.0,3.0,Item 6
 Platte Valley,22.0,0.0,Item 6
 Potomac,,,Item 6
 Providence,51.0,0.0,Item 6
@@ -530,9 +530,9 @@ Wisconsin,31.0,1.0,Item 6
 Arizona,34.0,1.0,Item 7
 Ascension,22.0,5.0,Item 7
 Blue Ridge,,,Item 7
-Calvary,,,Item 7
+Calvary,79.0,10.0,Item 7
 Canada West,25.0,0.0,Item 7
-Catawba Valley,,,Item 7
+Catawba Valley,35.0,3.0,Item 7
 Central Carolina,49.0,2.0,Item 7
 Central Florida,61.0,0.0,Item 7
 Central Georgia,,,Item 7
@@ -542,7 +542,7 @@ Chicago Metro,43.0,1.0,Item 7
 Columbus Metro,,,Item 7
 Covenant,15.0,62.0,Item 7
 Eastern Canada,,,Item 7
-Eastern Carolina,,,Item 7
+Eastern Carolina,5.0,36.0,Item 7
 Eastern Pennsylvania,17.0,6.0,Item 7
 Evangel,,,Item 7
 Fellowship,,,Item 7
@@ -552,7 +552,7 @@ Great Lakes,52.0,2.0,Item 7
 Gulf Coast,27.0,10.0,Item 7
 Gulfstream,35.0,0.0,Item 7
 Heartland,,,Item 7
-Heritage,,,Item 7
+Heritage,23.0,17.0,Item 7
 Highlands,16.0,35.0,Item 7
 Hills and Plains,,,Item 7
 Houston Metro,37.0,12.0,Item 7
@@ -592,7 +592,7 @@ Pee Dee,7.0,31.0,Item 7
 Philadelphia,,,Item 7
 Philadelphia Metro West,,,Item 7
 Piedmont Triad,16.0,20.0,Item 7
-Pittsburgh,,,Item 7
+Pittsburgh,10.0,34.0,Item 7
 Platte Valley,5.0,10.0,Item 7
 Potomac,7.0,37.0,Item 7
 Providence,43.0,8.0,Item 7
@@ -618,9 +618,9 @@ Wisconsin,25.0,1.0,Item 7
 Arizona,31.0,0.0,Item 8
 Ascension,35.0,0.0,Item 8
 Blue Ridge,,,Item 8
-Calvary,,,Item 8
+Calvary,93.0,0.0,Item 8
 Canada West,25.0,0.0,Item 8
-Catawba Valley,,,Item 8
+Catawba Valley,38.0,0.0,Item 8
 Central Carolina,51.0,0.0,Item 8
 Central Florida,61.0,0.0,Item 8
 Central Georgia,,,Item 8
@@ -630,7 +630,7 @@ Chicago Metro,43.0,0.0,Item 8
 Columbus Metro,,,Item 8
 Covenant,73.0,1.0,Item 8
 Eastern Canada,,,Item 8
-Eastern Carolina,,,Item 8
+Eastern Carolina,52.0,0.0,Item 8
 Eastern Pennsylvania,24.0,1.0,Item 8
 Evangel,,,Item 8
 Fellowship,,,Item 8
@@ -640,7 +640,7 @@ Great Lakes,46.0,1.0,Item 8
 Gulf Coast,37.0,0.0,Item 8
 Gulfstream,35.0,0.0,Item 8
 Heartland,,,Item 8
-Heritage,,,Item 8
+Heritage,35.0,0.0,Item 8
 Highlands,55.0,0.0,Item 8
 Hills and Plains,,,Item 8
 Houston Metro,50.0,0.0,Item 8
@@ -680,7 +680,7 @@ Pee Dee,33.0,2.0,Item 8
 Philadelphia,,,Item 8
 Philadelphia Metro West,,,Item 8
 Piedmont Triad,40.0,0.0,Item 8
-Pittsburgh,,,Item 8
+Pittsburgh,46.0,2.0,Item 8
 Platte Valley,22.0,0.0,Item 8
 Potomac,,,Item 8
 Providence,51.0,0.0,Item 8
@@ -706,9 +706,9 @@ Wisconsin,27.0,0.0,Item 8
 Arizona,31.0,0.0,Item 9
 Ascension,34.0,1.0,Item 9
 Blue Ridge,,,Item 9
-Calvary,,,Item 9
+Calvary,93.0,0.0,Item 9
 Canada West,1.0,0.0,Item 9
-Catawba Valley,,,Item 9
+Catawba Valley,38.0,0.0,Item 9
 Central Carolina,51.0,0.0,Item 9
 Central Florida,61.0,0.0,Item 9
 Central Georgia,,,Item 9
@@ -718,7 +718,7 @@ Chicago Metro,43.0,0.0,Item 9
 Columbus Metro,,,Item 9
 Covenant,74.0,5.0,Item 9
 Eastern Canada,,,Item 9
-Eastern Carolina,,,Item 9
+Eastern Carolina,53.0,0.0,Item 9
 Eastern Pennsylvania,26.0,0.0,Item 9
 Evangel,,,Item 9
 Fellowship,,,Item 9
@@ -728,7 +728,7 @@ Great Lakes,46.0,1.0,Item 9
 Gulf Coast,37.0,0.0,Item 9
 Gulfstream,35.0,0.0,Item 9
 Heartland,,,Item 9
-Heritage,,,Item 9
+Heritage,35.0,0.0,Item 9
 Highlands,55.0,0.0,Item 9
 Hills and Plains,,,Item 9
 Houston Metro,50.0,0.0,Item 9
@@ -768,7 +768,7 @@ Pee Dee,40.0,0.0,Item 9
 Philadelphia,,,Item 9
 Philadelphia Metro West,,,Item 9
 Piedmont Triad,39.0,0.0,Item 9
-Pittsburgh,,,Item 9
+Pittsburgh,49.0,1.0,Item 9
 Platte Valley,22.0,0.0,Item 9
 Potomac,,,Item 9
 Providence,51.0,0.0,Item 9
@@ -794,9 +794,9 @@ Wisconsin,31.0,1.0,Item 9
 Arizona,31.0,0.0,Item 10
 Ascension,32.0,1.0,Item 10
 Blue Ridge,,,Item 10
-Calvary,,,Item 10
+Calvary,93.0,0.0,Item 10
 Canada West,1.0,0.0,Item 10
-Catawba Valley,,,Item 10
+Catawba Valley,37.0,0.0,Item 10
 Central Carolina,50.0,0.0,Item 10
 Central Florida,61.0,0.0,Item 10
 Central Georgia,,,Item 10
@@ -806,7 +806,7 @@ Chicago Metro,42.0,0.0,Item 10
 Columbus Metro,,,Item 10
 Covenant,83.0,1.0,Item 10
 Eastern Canada,,,Item 10
-Eastern Carolina,,,Item 10
+Eastern Carolina,49.0,0.0,Item 10
 Eastern Pennsylvania,26.0,0.0,Item 10
 Evangel,,,Item 10
 Fellowship,,,Item 10
@@ -816,7 +816,7 @@ Great Lakes,46.0,1.0,Item 10
 Gulf Coast,37.0,0.0,Item 10
 Gulfstream,35.0,0.0,Item 10
 Heartland,,,Item 10
-Heritage,,,Item 10
+Heritage,35.0,0.0,Item 10
 Highlands,52.0,1.0,Item 10
 Hills and Plains,,,Item 10
 Houston Metro,50.0,0.0,Item 10
@@ -856,7 +856,7 @@ Pee Dee,38.0,1.0,Item 10
 Philadelphia,,,Item 10
 Philadelphia Metro West,,,Item 10
 Piedmont Triad,37.0,0.0,Item 10
-Pittsburgh,,,Item 10
+Pittsburgh,46.0,1.0,Item 10
 Platte Valley,22.0,0.0,Item 10
 Potomac,,,Item 10
 Providence,51.0,0.0,Item 10
@@ -882,9 +882,9 @@ Wisconsin,31.0,1.0,Item 10
 Arizona,31.0,0.0,Item 11
 Ascension,35.0,0.0,Item 11
 Blue Ridge,,,Item 11
-Calvary,,,Item 11
+Calvary,52.0,34.0,Item 11
 Canada West,1.0,0.0,Item 11
-Catawba Valley,,,Item 11
+Catawba Valley,38.0,0.0,Item 11
 Central Carolina,6.0,45.0,Item 11
 Central Florida,61.0,0.0,Item 11
 Central Georgia,,,Item 11
@@ -894,7 +894,7 @@ Chicago Metro,43.0,0.0,Item 11
 Columbus Metro,,,Item 11
 Covenant,64.0,11.0,Item 11
 Eastern Canada,,,Item 11
-Eastern Carolina,,,Item 11
+Eastern Carolina,48.0,0.0,Item 11
 Eastern Pennsylvania,27.0,0.0,Item 11
 Evangel,,,Item 11
 Fellowship,,,Item 11
@@ -904,7 +904,7 @@ Great Lakes,46.0,1.0,Item 11
 Gulf Coast,37.0,0.0,Item 11
 Gulfstream,35.0,0.0,Item 11
 Heartland,,,Item 11
-Heritage,,,Item 11
+Heritage,35.0,0.0,Item 11
 Highlands,48.0,2.0,Item 11
 Hills and Plains,,,Item 11
 Houston Metro,50.0,0.0,Item 11
@@ -944,7 +944,7 @@ Pee Dee,35.0,2.0,Item 11
 Philadelphia,,,Item 11
 Philadelphia Metro West,,,Item 11
 Piedmont Triad,40.0,0.0,Item 11
-Pittsburgh,,,Item 11
+Pittsburgh,45.0,1.0,Item 11
 Platte Valley,7.0,13.0,Item 11
 Potomac,,,Item 11
 Providence,51.0,0.0,Item 11
@@ -970,9 +970,9 @@ Wisconsin,31.0,1.0,Item 11
 Arizona,31.0,0.0,Item 12
 Ascension,35.0,0.0,Item 12
 Blue Ridge,,,Item 12
-Calvary,,,Item 12
+Calvary,95.0,0.0,Item 12
 Canada West,1.0,0.0,Item 12
-Catawba Valley,,,Item 12
+Catawba Valley,36.0,0.0,Item 12
 Central Carolina,46.0,0.0,Item 12
 Central Florida,61.0,0.0,Item 12
 Central Georgia,,,Item 12
@@ -982,7 +982,7 @@ Chicago Metro,43.0,0.0,Item 12
 Columbus Metro,,,Item 12
 Covenant,78.0,1.0,Item 12
 Eastern Canada,,,Item 12
-Eastern Carolina,,,Item 12
+Eastern Carolina,50.0,0.0,Item 12
 Eastern Pennsylvania,26.0,0.0,Item 12
 Evangel,,,Item 12
 Fellowship,,,Item 12
@@ -992,7 +992,7 @@ Great Lakes,46.0,1.0,Item 12
 Gulf Coast,37.0,0.0,Item 12
 Gulfstream,35.0,0.0,Item 12
 Heartland,,,Item 12
-Heritage,,,Item 12
+Heritage,35.0,0.0,Item 12
 Highlands,40.0,10.0,Item 12
 Hills and Plains,,,Item 12
 Houston Metro,50.0,0.0,Item 12
@@ -1032,7 +1032,7 @@ Pee Dee,37.0,0.0,Item 12
 Philadelphia,,,Item 12
 Philadelphia Metro West,,,Item 12
 Piedmont Triad,40.0,0.0,Item 12
-Pittsburgh,,,Item 12
+Pittsburgh,48.0,1.0,Item 12
 Platte Valley,14.0,3.0,Item 12
 Potomac,51.0,0.0,Item 12
 Providence,51.0,0.0,Item 12
