@@ -57,7 +57,7 @@ Northern New England,0.0,1.0,Item 1
 Northwest Georgia,34.0,8.0,Item 1
 Ohio,11.0,7.0,Item 1
 Ohio Valley,17.0,28.0,Item 1
-Pacific,,,Item 1
+Pacific,0.0,1.0,Item 1
 Pacific Northwest,21.0,37.0,Item 1
 Palmetto,41.0,37.0,Item 1
 Pee Dee,35.0,0.0,Item 1
@@ -145,7 +145,7 @@ Northern New England,,,Item 2
 Northwest Georgia,44.0,0.0,Item 2
 Ohio,12.0,2.0,Item 2
 Ohio Valley,42.0,0.0,Item 2
-Pacific,,,Item 2
+Pacific,1.0,0.0,Item 2
 Pacific Northwest,46.0,0.0,Item 2
 Palmetto,76.0,0.0,Item 2
 Pee Dee,40.0,0.0,Item 2
@@ -233,7 +233,7 @@ Northern New England,,,Item 3
 Northwest Georgia,6.0,31.0,Item 3
 Ohio,14.0,2.0,Item 3
 Ohio Valley,40.0,2.0,Item 3
-Pacific,,,Item 3
+Pacific,0.0,1.0,Item 3
 Pacific Northwest,46.0,0.0,Item 3
 Palmetto,76.0,1.0,Item 3
 Pee Dee,13.0,25.0,Item 3
@@ -321,7 +321,7 @@ Northern New England,,,Item 4
 Northwest Georgia,42.0,0.0,Item 4
 Ohio,18.0,0.0,Item 4
 Ohio Valley,42.0,1.0,Item 4
-Pacific,,,Item 4
+Pacific,1.0,0.0,Item 4
 Pacific Northwest,52.0,3.0,Item 4
 Palmetto,69.0,1.0,Item 4
 Pee Dee,39.0,0.0,Item 4
@@ -409,7 +409,7 @@ Northern New England,,,Item 5
 Northwest Georgia,42.0,0.0,Item 5
 Ohio,18.0,0.0,Item 5
 Ohio Valley,37.0,0.0,Item 5
-Pacific,,,Item 5
+Pacific,0.0,1.0,Item 5
 Pacific Northwest,37.0,14.0,Item 5
 Palmetto,67.0,4.0,Item 5
 Pee Dee,38.0,0.0,Item 5
@@ -497,7 +497,7 @@ Northern New England,,,Item 6
 Northwest Georgia,33.0,6.0,Item 6
 Ohio,16.0,0.0,Item 6
 Ohio Valley,39.0,0.0,Item 6
-Pacific,,,Item 6
+Pacific,1.0,0.0,Item 6
 Pacific Northwest,40.0,4.0,Item 6
 Palmetto,70.0,0.0,Item 6
 Pee Dee,37.0,0.0,Item 6
@@ -585,7 +585,7 @@ Northern New England,,,Item 7
 Northwest Georgia,23.0,12.0,Item 7
 Ohio,14.0,3.0,Item 7
 Ohio Valley,28.0,9.0,Item 7
-Pacific,,,Item 7
+Pacific,1.0,0.0,Item 7
 Pacific Northwest,21.0,25.0,Item 7
 Palmetto,28.0,36.0,Item 7
 Pee Dee,7.0,31.0,Item 7
@@ -673,7 +673,7 @@ Northern New England,,,Item 8
 Northwest Georgia,33.0,0.0,Item 8
 Ohio,16.0,0.0,Item 8
 Ohio Valley,37.0,1.0,Item 8
-Pacific,,,Item 8
+Pacific,1.0,0.0,Item 8
 Pacific Northwest,46.0,0.0,Item 8
 Palmetto,65.0,3.0,Item 8
 Pee Dee,33.0,2.0,Item 8
@@ -761,7 +761,7 @@ Northern New England,,,Item 9
 Northwest Georgia,40.0,0.0,Item 9
 Ohio,17.0,0.0,Item 9
 Ohio Valley,,,Item 9
-Pacific,,,Item 9
+Pacific,1.0,0.0,Item 9
 Pacific Northwest,46.0,0.0,Item 9
 Palmetto,68.0,0.0,Item 9
 Pee Dee,40.0,0.0,Item 9
@@ -849,7 +849,7 @@ Northern New England,,,Item 10
 Northwest Georgia,38.0,0.0,Item 10
 Ohio,17.0,0.0,Item 10
 Ohio Valley,,,Item 10
-Pacific,,,Item 10
+Pacific,1.0,0.0,Item 10
 Pacific Northwest,46.0,0.0,Item 10
 Palmetto,67.0,0.0,Item 10
 Pee Dee,38.0,1.0,Item 10
@@ -937,7 +937,7 @@ Northern New England,,,Item 11
 Northwest Georgia,33.0,2.0,Item 11
 Ohio,14.0,0.0,Item 11
 Ohio Valley,,,Item 11
-Pacific,,,Item 11
+Pacific,1.0,0.0,Item 11
 Pacific Northwest,40.0,4.0,Item 11
 Palmetto,71.0,0.0,Item 11
 Pee Dee,35.0,2.0,Item 11
@@ -1025,7 +1025,7 @@ Northern New England,,,Item 12
 Northwest Georgia,38.0,1.0,Item 12
 Ohio,2.0,16.0,Item 12
 Ohio Valley,,,Item 12
-Pacific,,,Item 12
+Pacific,1.0,0.0,Item 12
 Pacific Northwest,46.0,0.0,Item 12
 Palmetto,70.0,0.0,Item 12
 Pee Dee,37.0,0.0,Item 12
