@@ -7,7 +7,7 @@ Canada West,22.0,7.0,Item 1
 Catawba Valley,31.0,6.0,Item 1
 Central Carolina,41.0,11.0,Item 1
 Central Florida,42.0,48.0,Item 1
-Central Georgia,,,Item 1
+Central Georgia,38.0,8.0,Item 1
 Central Indiana,,,Item 1
 Chesapeake,31.0,36.0,Item 1
 Chicago Metro,18.0,26.0,Item 1
@@ -95,7 +95,7 @@ Canada West,26.0,0.0,Item 2
 Catawba Valley,38.0,0.0,Item 2
 Central Carolina,51.0,0.0,Item 2
 Central Florida,61.0,0.0,Item 2
-Central Georgia,,,Item 2
+Central Georgia,38.0,0.0,Item 2
 Central Indiana,,,Item 2
 Chesapeake,71.0,0.0,Item 2
 Chicago Metro,37.0,0.0,Item 2
@@ -183,7 +183,7 @@ Canada West,25.0,0.0,Item 3
 Catawba Valley,37.0,1.0,Item 3
 Central Carolina,51.0,0.0,Item 3
 Central Florida,60.0,1.0,Item 3
-Central Georgia,,,Item 3
+Central Georgia,4.0,30.0,Item 3
 Central Indiana,,,Item 3
 Chesapeake,64.0,0.0,Item 3
 Chicago Metro,42.0,0.0,Item 3
@@ -271,7 +271,7 @@ Canada West,28.0,0.0,Item 4
 Catawba Valley,38.0,0.0,Item 4
 Central Carolina,50.0,0.0,Item 4
 Central Florida,90.0,0.0,Item 4
-Central Georgia,,,Item 4
+Central Georgia,38.0,0.0,Item 4
 Central Indiana,,,Item 4
 Chesapeake,69.0,0.0,Item 4
 Chicago Metro,41.0,1.0,Item 4
@@ -359,7 +359,7 @@ Canada West,24.0,0.0,Item 5
 Catawba Valley,38.0,0.0,Item 5
 Central Carolina,52.0,0.0,Item 5
 Central Florida,1.0,0.0,Item 5
-Central Georgia,,,Item 5
+Central Georgia,38.0,0.0,Item 5
 Central Indiana,,,Item 5
 Chesapeake,71.0,0.0,Item 5
 Chicago Metro,21.0,20.0,Item 5
@@ -447,7 +447,7 @@ Canada West,26.0,0.0,Item 6
 Catawba Valley,38.0,0.0,Item 6
 Central Carolina,48.0,3.0,Item 6
 Central Florida,61.0,0.0,Item 6
-Central Georgia,,,Item 6
+Central Georgia,38.0,0.0,Item 6
 Central Indiana,,,Item 6
 Chesapeake,15.0,41.0,Item 6
 Chicago Metro,43.0,0.0,Item 6
@@ -535,7 +535,7 @@ Canada West,25.0,0.0,Item 7
 Catawba Valley,35.0,3.0,Item 7
 Central Carolina,49.0,2.0,Item 7
 Central Florida,61.0,0.0,Item 7
-Central Georgia,,,Item 7
+Central Georgia,2.0,36.0,Item 7
 Central Indiana,,,Item 7
 Chesapeake,0.0,70.0,Item 7
 Chicago Metro,43.0,1.0,Item 7
@@ -623,7 +623,7 @@ Canada West,25.0,0.0,Item 8
 Catawba Valley,38.0,0.0,Item 8
 Central Carolina,51.0,0.0,Item 8
 Central Florida,61.0,0.0,Item 8
-Central Georgia,,,Item 8
+Central Georgia,38.0,0.0,Item 8
 Central Indiana,,,Item 8
 Chesapeake,12.0,46.0,Item 8
 Chicago Metro,43.0,0.0,Item 8
@@ -711,7 +711,7 @@ Canada West,1.0,0.0,Item 9
 Catawba Valley,38.0,0.0,Item 9
 Central Carolina,51.0,0.0,Item 9
 Central Florida,61.0,0.0,Item 9
-Central Georgia,,,Item 9
+Central Georgia,38.0,0.0,Item 9
 Central Indiana,,,Item 9
 Chesapeake,61.0,0.0,Item 9
 Chicago Metro,43.0,0.0,Item 9
@@ -799,7 +799,7 @@ Canada West,1.0,0.0,Item 10
 Catawba Valley,37.0,0.0,Item 10
 Central Carolina,50.0,0.0,Item 10
 Central Florida,61.0,0.0,Item 10
-Central Georgia,,,Item 10
+Central Georgia,38.0,0.0,Item 10
 Central Indiana,,,Item 10
 Chesapeake,15.0,26.0,Item 10
 Chicago Metro,42.0,0.0,Item 10
@@ -887,7 +887,7 @@ Canada West,1.0,0.0,Item 11
 Catawba Valley,38.0,0.0,Item 11
 Central Carolina,6.0,45.0,Item 11
 Central Florida,61.0,0.0,Item 11
-Central Georgia,,,Item 11
+Central Georgia,38.0,0.0,Item 11
 Central Indiana,,,Item 11
 Chesapeake,5.0,44.0,Item 11
 Chicago Metro,43.0,0.0,Item 11
@@ -975,7 +975,7 @@ Canada West,1.0,0.0,Item 12
 Catawba Valley,36.0,0.0,Item 12
 Central Carolina,46.0,0.0,Item 12
 Central Florida,61.0,0.0,Item 12
-Central Georgia,,,Item 12
+Central Georgia,38.0,0.0,Item 12
 Central Indiana,,,Item 12
 Chesapeake,51.0,0.0,Item 12
 Chicago Metro,43.0,0.0,Item 12
