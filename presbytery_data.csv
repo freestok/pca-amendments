@@ -463,7 +463,7 @@ Grace,37.0,0.0,Item 6
 Great Lakes,46.0,1.0,Item 6
 Gulf Coast,37.0,0.0,Item 6
 Gulfstream,35.0,0.0,Item 6
-Heartland,,,Item 6
+Heartland,22.0,2.0,Item 6
 Heritage,35.0,0.0,Item 6
 Highlands,36.0,17.0,Item 6
 Hills and Plains,,,Item 6
@@ -551,7 +551,7 @@ Grace,13.0,27.0,Item 7
 Great Lakes,52.0,2.0,Item 7
 Gulf Coast,27.0,10.0,Item 7
 Gulfstream,35.0,0.0,Item 7
-Heartland,,,Item 7
+Heartland,23.0,0.0,Item 7
 Heritage,23.0,17.0,Item 7
 Highlands,16.0,35.0,Item 7
 Hills and Plains,,,Item 7
@@ -639,7 +639,7 @@ Grace,41.0,0.0,Item 8
 Great Lakes,46.0,1.0,Item 8
 Gulf Coast,37.0,0.0,Item 8
 Gulfstream,35.0,0.0,Item 8
-Heartland,,,Item 8
+Heartland,12.0,10.0,Item 8
 Heritage,35.0,0.0,Item 8
 Highlands,55.0,0.0,Item 8
 Hills and Plains,,,Item 8
@@ -727,7 +727,7 @@ Grace,43.0,0.0,Item 9
 Great Lakes,46.0,1.0,Item 9
 Gulf Coast,37.0,0.0,Item 9
 Gulfstream,35.0,0.0,Item 9
-Heartland,,,Item 9
+Heartland,25.0,0.0,Item 9
 Heritage,35.0,0.0,Item 9
 Highlands,55.0,0.0,Item 9
 Hills and Plains,,,Item 9
@@ -815,7 +815,7 @@ Grace,46.0,0.0,Item 10
 Great Lakes,46.0,1.0,Item 10
 Gulf Coast,37.0,0.0,Item 10
 Gulfstream,35.0,0.0,Item 10
-Heartland,,,Item 10
+Heartland,25.0,0.0,Item 10
 Heritage,35.0,0.0,Item 10
 Highlands,52.0,1.0,Item 10
 Hills and Plains,,,Item 10
@@ -903,7 +903,7 @@ Grace,40.0,0.0,Item 11
 Great Lakes,46.0,1.0,Item 11
 Gulf Coast,37.0,0.0,Item 11
 Gulfstream,35.0,0.0,Item 11
-Heartland,,,Item 11
+Heartland,25.0,0.0,Item 11
 Heritage,35.0,0.0,Item 11
 Highlands,48.0,2.0,Item 11
 Hills and Plains,,,Item 11
@@ -991,7 +991,7 @@ Grace,45.0,0.0,Item 12
 Great Lakes,46.0,1.0,Item 12
 Gulf Coast,37.0,0.0,Item 12
 Gulfstream,35.0,0.0,Item 12
-Heartland,,,Item 12
+Heartland,25.0,0.0,Item 12
 Heritage,35.0,0.0,Item 12
 Highlands,40.0,10.0,Item 12
 Hills and Plains,,,Item 12
