@@ -51,7 +51,7 @@ New River,1.0,0.0,Item 1
 New York State,11.0,16.0,Item 1
 North Florida,,,Item 1
 North Texas,,,Item 1
-Northern California,,,Item 1
+Northern California,12.0,20.0,Item 1
 Northern Illinois,11.0,15.0,Item 1
 Northern New England,0.0,1.0,Item 1
 Northwest Georgia,34.0,8.0,Item 1
@@ -139,7 +139,7 @@ New River,1.0,0.0,Item 2
 New York State,5.0,21.0,Item 2
 North Florida,29.0,0.0,Item 2
 North Texas,,,Item 2
-Northern California,,,Item 2
+Northern California,34.0,0.0,Item 2
 Northern Illinois,30.0,0.0,Item 2
 Northern New England,,,Item 2
 Northwest Georgia,44.0,0.0,Item 2
@@ -227,7 +227,7 @@ New River,1.0,0.0,Item 3
 New York State,4.0,24.0,Item 3
 North Florida,,,Item 3
 North Texas,,,Item 3
-Northern California,,,Item 3
+Northern California,34.0,0.0,Item 3
 Northern Illinois,30.0,0.0,Item 3
 Northern New England,,,Item 3
 Northwest Georgia,6.0,31.0,Item 3
@@ -315,7 +315,7 @@ New River,1.0,0.0,Item 4
 New York State,24.0,3.0,Item 4
 North Florida,,,Item 4
 North Texas,,,Item 4
-Northern California,,,Item 4
+Northern California,21.0,6.0,Item 4
 Northern Illinois,29.0,0.0,Item 4
 Northern New England,,,Item 4
 Northwest Georgia,42.0,0.0,Item 4
@@ -403,7 +403,7 @@ New River,1.0,0.0,Item 5
 New York State,24.0,3.0,Item 5
 North Florida,,,Item 5
 North Texas,,,Item 5
-Northern California,,,Item 5
+Northern California,20.0,5.0,Item 5
 Northern Illinois,21.0,6.0,Item 5
 Northern New England,,,Item 5
 Northwest Georgia,42.0,0.0,Item 5
@@ -491,7 +491,7 @@ New River,1.0,0.0,Item 6
 New York State,28.0,0.0,Item 6
 North Florida,23.0,0.0,Item 6
 North Texas,,,Item 6
-Northern California,,,Item 6
+Northern California,34.0,0.0,Item 6
 Northern Illinois,30.0,0.0,Item 6
 Northern New England,,,Item 6
 Northwest Georgia,33.0,6.0,Item 6
@@ -579,7 +579,7 @@ New River,4.0,6.0,Item 7
 New York State,4.0,25.0,Item 7
 North Florida,25.0,1.0,Item 7
 North Texas,,,Item 7
-Northern California,,,Item 7
+Northern California,0.0,34.0,Item 7
 Northern Illinois,2.0,26.0,Item 7
 Northern New England,,,Item 7
 Northwest Georgia,23.0,12.0,Item 7
@@ -667,7 +667,7 @@ New River,1.0,0.0,Item 8
 New York State,29.0,0.0,Item 8
 North Florida,25.0,0.0,Item 8
 North Texas,,,Item 8
-Northern California,,,Item 8
+Northern California,34.0,0.0,Item 8
 Northern Illinois,28.0,0.0,Item 8
 Northern New England,,,Item 8
 Northwest Georgia,33.0,0.0,Item 8
@@ -755,7 +755,7 @@ New River,1.0,0.0,Item 9
 New York State,28.0,0.0,Item 9
 North Florida,27.0,0.0,Item 9
 North Texas,,,Item 9
-Northern California,,,Item 9
+Northern California,34.0,0.0,Item 9
 Northern Illinois,29.0,0.0,Item 9
 Northern New England,,,Item 9
 Northwest Georgia,40.0,0.0,Item 9
@@ -843,7 +843,7 @@ New River,1.0,0.0,Item 10
 New York State,29.0,0.0,Item 10
 North Florida,25.0,1.0,Item 10
 North Texas,,,Item 10
-Northern California,,,Item 10
+Northern California,34.0,0.0,Item 10
 Northern Illinois,29.0,0.0,Item 10
 Northern New England,,,Item 10
 Northwest Georgia,38.0,0.0,Item 10
@@ -931,7 +931,7 @@ New River,1.0,0.0,Item 11
 New York State,28.0,0.0,Item 11
 North Florida,24.0,0.0,Item 11
 North Texas,,,Item 11
-Northern California,,,Item 11
+Northern California,34.0,0.0,Item 11
 Northern Illinois,29.0,0.0,Item 11
 Northern New England,,,Item 11
 Northwest Georgia,33.0,2.0,Item 11
@@ -1019,7 +1019,7 @@ New River,1.0,0.0,Item 12
 New York State,25.0,3.0,Item 12
 North Florida,25.0,0.0,Item 12
 North Texas,,,Item 12
-Northern California,,,Item 12
+Northern California,34.0,0.0,Item 12
 Northern Illinois,29.0,0.0,Item 12
 Northern New England,,,Item 12
 Northwest Georgia,38.0,1.0,Item 12
