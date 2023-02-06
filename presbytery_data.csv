@@ -35,11 +35,11 @@ Korean Capital,,,Item 1
 Korean Central,,,Item 1
 Korean Eastern,,,Item 1
 Korean Northeastern,,,Item 1
-Korean Northwest,,,Item 1
+Korean Northwest,20.0,2.0,Item 1
 Korean Southeastern,27.0,3.0,Item 1
 Korean Southern,,,Item 1
 Korean Southwest,,,Item 1
-Korean Southwest OC,,,Item 1
+Korean Southwest OC,32.0,5.0,Item 1
 Lowcountry Presbytery,1.0,0.0,Item 1
 Metro Atlanta,0.0,1.0,Item 1
 Metropolitan New York,1.0,31.0,Item 1
@@ -123,11 +123,11 @@ Korean Capital,,,Item 2
 Korean Central,,,Item 2
 Korean Eastern,,,Item 2
 Korean Northeastern,,,Item 2
-Korean Northwest,,,Item 2
+Korean Northwest,22.0,0.0,Item 2
 Korean Southeastern,,,Item 2
 Korean Southern,,,Item 2
 Korean Southwest,,,Item 2
-Korean Southwest OC,,,Item 2
+Korean Southwest OC,33.0,1.0,Item 2
 Lowcountry Presbytery,20.0,14.0,Item 2
 Metro Atlanta,1.0,0.0,Item 2
 Metropolitan New York,32.0,0.0,Item 2
@@ -211,11 +211,11 @@ Korean Capital,,,Item 3
 Korean Central,,,Item 3
 Korean Eastern,,,Item 3
 Korean Northeastern,,,Item 3
-Korean Northwest,,,Item 3
+Korean Northwest,22.0,0.0,Item 3
 Korean Southeastern,,,Item 3
 Korean Southern,,,Item 3
 Korean Southwest,,,Item 3
-Korean Southwest OC,,,Item 3
+Korean Southwest OC,33.0,1.0,Item 3
 Lowcountry Presbytery,34.0,0.0,Item 3
 Metro Atlanta,1.0,0.0,Item 3
 Metropolitan New York,32.0,0.0,Item 3
@@ -299,11 +299,11 @@ Korean Capital,,,Item 4
 Korean Central,,,Item 4
 Korean Eastern,,,Item 4
 Korean Northeastern,,,Item 4
-Korean Northwest,,,Item 4
+Korean Northwest,22.0,0.0,Item 4
 Korean Southeastern,32.0,0.0,Item 4
 Korean Southern,,,Item 4
 Korean Southwest,,,Item 4
-Korean Southwest OC,,,Item 4
+Korean Southwest OC,34.0,2.0,Item 4
 Lowcountry Presbytery,34.0,0.0,Item 4
 Metro Atlanta,1.0,0.0,Item 4
 Metropolitan New York,9.0,23.0,Item 4
@@ -387,11 +387,11 @@ Korean Capital,,,Item 5
 Korean Central,,,Item 5
 Korean Eastern,,,Item 5
 Korean Northeastern,,,Item 5
-Korean Northwest,,,Item 5
+Korean Northwest,22.0,0.0,Item 5
 Korean Southeastern,32.0,0.0,Item 5
 Korean Southern,,,Item 5
 Korean Southwest,,,Item 5
-Korean Southwest OC,,,Item 5
+Korean Southwest OC,32.0,3.0,Item 5
 Lowcountry Presbytery,34.0,0.0,Item 5
 Metro Atlanta,0.0,1.0,Item 5
 Metropolitan New York,2.0,26.0,Item 5
@@ -475,11 +475,11 @@ Korean Capital,,,Item 6
 Korean Central,,,Item 6
 Korean Eastern,,,Item 6
 Korean Northeastern,,,Item 6
-Korean Northwest,,,Item 6
+Korean Northwest,22.0,0.0,Item 6
 Korean Southeastern,,,Item 6
 Korean Southern,,,Item 6
 Korean Southwest,,,Item 6
-Korean Southwest OC,,,Item 6
+Korean Southwest OC,31.0,5.0,Item 6
 Lowcountry Presbytery,34.0,0.0,Item 6
 Metro Atlanta,1.0,0.0,Item 6
 Metropolitan New York,32.0,0.0,Item 6
@@ -563,11 +563,11 @@ Korean Capital,,,Item 7
 Korean Central,,,Item 7
 Korean Eastern,,,Item 7
 Korean Northeastern,,,Item 7
-Korean Northwest,,,Item 7
+Korean Northwest,22.0,0.0,Item 7
 Korean Southeastern,,,Item 7
 Korean Southern,,,Item 7
 Korean Southwest,,,Item 7
-Korean Southwest OC,,,Item 7
+Korean Southwest OC,33.0,3.0,Item 7
 Lowcountry Presbytery,13.0,15.0,Item 7
 Metro Atlanta,0.0,1.0,Item 7
 Metropolitan New York,2.0,21.0,Item 7
@@ -651,11 +651,11 @@ Korean Capital,,,Item 8
 Korean Central,,,Item 8
 Korean Eastern,,,Item 8
 Korean Northeastern,,,Item 8
-Korean Northwest,,,Item 8
+Korean Northwest,22.0,0.0,Item 8
 Korean Southeastern,,,Item 8
 Korean Southern,,,Item 8
 Korean Southwest,,,Item 8
-Korean Southwest OC,,,Item 8
+Korean Southwest OC,35.0,0.0,Item 8
 Lowcountry Presbytery,34.0,0.0,Item 8
 Metro Atlanta,1.0,0.0,Item 8
 Metropolitan New York,32.0,0.0,Item 8
@@ -739,11 +739,11 @@ Korean Capital,,,Item 9
 Korean Central,,,Item 9
 Korean Eastern,,,Item 9
 Korean Northeastern,,,Item 9
-Korean Northwest,,,Item 9
+Korean Northwest,22.0,0.0,Item 9
 Korean Southeastern,,,Item 9
 Korean Southern,,,Item 9
 Korean Southwest,,,Item 9
-Korean Southwest OC,,,Item 9
+Korean Southwest OC,32.0,1.0,Item 9
 Lowcountry Presbytery,34.0,0.0,Item 9
 Metro Atlanta,1.0,0.0,Item 9
 Metropolitan New York,32.0,0.0,Item 9
@@ -827,11 +827,11 @@ Korean Capital,,,Item 10
 Korean Central,,,Item 10
 Korean Eastern,,,Item 10
 Korean Northeastern,,,Item 10
-Korean Northwest,,,Item 10
+Korean Northwest,22.0,0.0,Item 10
 Korean Southeastern,,,Item 10
 Korean Southern,,,Item 10
 Korean Southwest,,,Item 10
-Korean Southwest OC,,,Item 10
+Korean Southwest OC,31.0,1.0,Item 10
 Lowcountry Presbytery,34.0,0.0,Item 10
 Metro Atlanta,1.0,0.0,Item 10
 Metropolitan New York,32.0,0.0,Item 10
@@ -915,11 +915,11 @@ Korean Capital,,,Item 11
 Korean Central,,,Item 11
 Korean Eastern,,,Item 11
 Korean Northeastern,,,Item 11
-Korean Northwest,,,Item 11
+Korean Northwest,21.0,0.0,Item 11
 Korean Southeastern,,,Item 11
 Korean Southern,,,Item 11
 Korean Southwest,,,Item 11
-Korean Southwest OC,,,Item 11
+Korean Southwest OC,29.0,3.0,Item 11
 Lowcountry Presbytery,34.0,0.0,Item 11
 Metro Atlanta,1.0,0.0,Item 11
 Metropolitan New York,32.0,0.0,Item 11
@@ -1003,11 +1003,11 @@ Korean Capital,,,Item 12
 Korean Central,,,Item 12
 Korean Eastern,,,Item 12
 Korean Northeastern,,,Item 12
-Korean Northwest,,,Item 12
+Korean Northwest,21.0,0.0,Item 12
 Korean Southeastern,,,Item 12
 Korean Southern,,,Item 12
 Korean Southwest,,,Item 12
-Korean Southwest OC,,,Item 12
+Korean Southwest OC,36.0,0.0,Item 12
 Lowcountry Presbytery,34.0,0.0,Item 12
 Metro Atlanta,1.0,0.0,Item 12
 Metropolitan New York,32.0,0.0,Item 12
