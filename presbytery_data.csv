@@ -16,7 +16,7 @@ Covenant,52.0,37.0,Item 1
 Eastern Canada,,,Item 1
 Eastern Carolina,22.0,27.0,Item 1
 Eastern Pennsylvania,12.0,15.0,Item 1
-Evangel,,,Item 1
+Evangel,57.0,40.0,Item 1
 Fellowship,33.0,4.0,Item 1
 Georgia Foothills,0.0,1.0,Item 1
 Grace,43.0,7.0,Item 1
@@ -79,7 +79,7 @@ Southeast Alabama,42.0,2.0,Item 1
 Southern Louisiana,10.0,13.0,Item 1
 Southern New England,29.0,39.0,Item 1
 Southwest Florida,51.0,14.0,Item 1
-Suncoast Florida,,,Item 1
+Suncoast Florida,34.0,14.0,Item 1
 Susquehanna Valley,45.0,12.0,Item 1
 Tennessee Valley,39.0,54.0,Item 1
 Tidewater,17.0,23.0,Item 1
@@ -104,7 +104,7 @@ Covenant,76.0,4.0,Item 2
 Eastern Canada,,,Item 2
 Eastern Carolina,50.0,0.0,Item 2
 Eastern Pennsylvania,27.0,0.0,Item 2
-Evangel,,,Item 2
+Evangel,87.0,0.0,Item 2
 Fellowship,36.0,0.0,Item 2
 Georgia Foothills,1.0,0.0,Item 2
 Grace,47.0,0.0,Item 2
@@ -167,7 +167,7 @@ Southeast Alabama,42.0,0.0,Item 2
 Southern Louisiana,19.0,0.0,Item 2
 Southern New England,68.0,0.0,Item 2
 Southwest Florida,52.0,9.0,Item 2
-Suncoast Florida,,,Item 2
+Suncoast Florida,44.0,0.0,Item 2
 Susquehanna Valley,30.0,3.0,Item 2
 Tennessee Valley,1.0,0.0,Item 2
 Tidewater,43.0,0.0,Item 2
@@ -192,7 +192,7 @@ Covenant,1.0,77.0,Item 3
 Eastern Canada,,,Item 3
 Eastern Carolina,45.0,1.0,Item 3
 Eastern Pennsylvania,24.0,0.0,Item 3
-Evangel,,,Item 3
+Evangel,4.0,87.0,Item 3
 Fellowship,37.0,1.0,Item 3
 Georgia Foothills,1.0,0.0,Item 3
 Grace,28.0,13.0,Item 3
@@ -255,7 +255,7 @@ Southeast Alabama,42.0,0.0,Item 3
 Southern Louisiana,11.0,3.0,Item 3
 Southern New England,35.0,22.0,Item 3
 Southwest Florida,0.0,58.0,Item 3
-Suncoast Florida,,,Item 3
+Suncoast Florida,43.0,0.0,Item 3
 Susquehanna Valley,34.0,6.0,Item 3
 Tennessee Valley,1.0,0.0,Item 3
 Tidewater,42.0,0.0,Item 3
@@ -280,7 +280,7 @@ Covenant,85.0,1.0,Item 4
 Eastern Canada,35.0,0.0,Item 4
 Eastern Carolina,51.0,0.0,Item 4
 Eastern Pennsylvania,27.0,0.0,Item 4
-Evangel,,,Item 4
+Evangel,90.0,0.0,Item 4
 Fellowship,38.0,0.0,Item 4
 Georgia Foothills,1.0,0.0,Item 4
 Grace,41.0,0.0,Item 4
@@ -343,7 +343,7 @@ Southeast Alabama,42.0,0.0,Item 4
 Southern Louisiana,21.0,0.0,Item 4
 Southern New England,58.0,4.0,Item 4
 Southwest Florida,61.0,0.0,Item 4
-Suncoast Florida,,,Item 4
+Suncoast Florida,36.0,8.0,Item 4
 Susquehanna Valley,52.0,3.0,Item 4
 Tennessee Valley,67.0,22.0,Item 4
 Tidewater,42.0,1.0,Item 4
@@ -368,7 +368,7 @@ Covenant,76.0,3.0,Item 5
 Eastern Canada,26.0,5.0,Item 5
 Eastern Carolina,43.0,4.0,Item 5
 Eastern Pennsylvania,27.0,0.0,Item 5
-Evangel,,,Item 5
+Evangel,88.0,0.0,Item 5
 Fellowship,38.0,0.0,Item 5
 Georgia Foothills,1.0,0.0,Item 5
 Grace,43.0,0.0,Item 5
@@ -431,7 +431,7 @@ Southeast Alabama,42.0,0.0,Item 5
 Southern Louisiana,14.0,5.0,Item 5
 Southern New England,35.0,28.0,Item 5
 Southwest Florida,59.0,2.0,Item 5
-Suncoast Florida,,,Item 5
+Suncoast Florida,35.0,5.0,Item 5
 Susquehanna Valley,46.0,11.0,Item 5
 Tennessee Valley,1.0,0.0,Item 5
 Tidewater,43.0,0.0,Item 5
@@ -456,7 +456,7 @@ Covenant,5.0,74.0,Item 6
 Eastern Canada,,,Item 6
 Eastern Carolina,52.0,0.0,Item 6
 Eastern Pennsylvania,27.0,0.0,Item 6
-Evangel,,,Item 6
+Evangel,80.0,4.0,Item 6
 Fellowship,38.0,0.0,Item 6
 Georgia Foothills,1.0,0.0,Item 6
 Grace,37.0,0.0,Item 6
@@ -519,7 +519,7 @@ Southeast Alabama,42.0,0.0,Item 6
 Southern Louisiana,25.0,0.0,Item 6
 Southern New England,65.0,0.0,Item 6
 Southwest Florida,64.0,0.0,Item 6
-Suncoast Florida,,,Item 6
+Suncoast Florida,45.0,0.0,Item 6
 Susquehanna Valley,24.0,19.0,Item 6
 Tennessee Valley,1.0,0.0,Item 6
 Tidewater,43.0,0.0,Item 6
@@ -544,7 +544,7 @@ Covenant,15.0,62.0,Item 7
 Eastern Canada,,,Item 7
 Eastern Carolina,5.0,36.0,Item 7
 Eastern Pennsylvania,17.0,6.0,Item 7
-Evangel,,,Item 7
+Evangel,9.0,79.0,Item 7
 Fellowship,16.0,17.0,Item 7
 Georgia Foothills,1.0,0.0,Item 7
 Grace,13.0,27.0,Item 7
@@ -607,7 +607,7 @@ Southeast Alabama,42.0,1.0,Item 7
 Southern Louisiana,1.0,17.0,Item 7
 Southern New England,35.0,19.0,Item 7
 Southwest Florida,4.0,54.0,Item 7
-Suncoast Florida,,,Item 7
+Suncoast Florida,6.0,39.0,Item 7
 Susquehanna Valley,29.0,14.0,Item 7
 Tennessee Valley,34.0,25.0,Item 7
 Tidewater,5.0,34.0,Item 7
@@ -632,7 +632,7 @@ Covenant,73.0,1.0,Item 8
 Eastern Canada,,,Item 8
 Eastern Carolina,52.0,0.0,Item 8
 Eastern Pennsylvania,24.0,1.0,Item 8
-Evangel,,,Item 8
+Evangel,82.0,0.0,Item 8
 Fellowship,37.0,0.0,Item 8
 Georgia Foothills,1.0,0.0,Item 8
 Grace,41.0,0.0,Item 8
@@ -695,7 +695,7 @@ Southeast Alabama,23.0,15.0,Item 8
 Southern Louisiana,21.0,0.0,Item 8
 Southern New England,62.0,0.0,Item 8
 Southwest Florida,57.0,2.0,Item 8
-Suncoast Florida,,,Item 8
+Suncoast Florida,45.0,0.0,Item 8
 Susquehanna Valley,51.0,1.0,Item 8
 Tennessee Valley,1.0,0.0,Item 8
 Tidewater,43.0,0.0,Item 8
@@ -720,7 +720,7 @@ Covenant,74.0,5.0,Item 9
 Eastern Canada,,,Item 9
 Eastern Carolina,53.0,0.0,Item 9
 Eastern Pennsylvania,26.0,0.0,Item 9
-Evangel,,,Item 9
+Evangel,84.0,0.0,Item 9
 Fellowship,38.0,0.0,Item 9
 Georgia Foothills,1.0,0.0,Item 9
 Grace,43.0,0.0,Item 9
@@ -783,7 +783,7 @@ Southeast Alabama,42.0,0.0,Item 9
 Southern Louisiana,21.0,0.0,Item 9
 Southern New England,63.0,0.0,Item 9
 Southwest Florida,59.0,0.0,Item 9
-Suncoast Florida,,,Item 9
+Suncoast Florida,43.0,1.0,Item 9
 Susquehanna Valley,52.0,1.0,Item 9
 Tennessee Valley,1.0,0.0,Item 9
 Tidewater,43.0,0.0,Item 9
@@ -808,7 +808,7 @@ Covenant,83.0,1.0,Item 10
 Eastern Canada,,,Item 10
 Eastern Carolina,49.0,0.0,Item 10
 Eastern Pennsylvania,26.0,0.0,Item 10
-Evangel,,,Item 10
+Evangel,74.0,0.0,Item 10
 Fellowship,36.0,0.0,Item 10
 Georgia Foothills,1.0,0.0,Item 10
 Grace,46.0,0.0,Item 10
@@ -871,7 +871,7 @@ Southeast Alabama,42.0,0.0,Item 10
 Southern Louisiana,19.0,0.0,Item 10
 Southern New England,65.0,0.0,Item 10
 Southwest Florida,57.0,0.0,Item 10
-Suncoast Florida,,,Item 10
+Suncoast Florida,43.0,2.0,Item 10
 Susquehanna Valley,45.0,8.0,Item 10
 Tennessee Valley,1.0,0.0,Item 10
 Tidewater,43.0,0.0,Item 10
@@ -896,7 +896,7 @@ Covenant,64.0,11.0,Item 11
 Eastern Canada,,,Item 11
 Eastern Carolina,48.0,0.0,Item 11
 Eastern Pennsylvania,27.0,0.0,Item 11
-Evangel,,,Item 11
+Evangel,79.0,0.0,Item 11
 Fellowship,37.0,0.0,Item 11
 Georgia Foothills,1.0,0.0,Item 11
 Grace,40.0,0.0,Item 11
@@ -959,7 +959,7 @@ Southeast Alabama,42.0,0.0,Item 11
 Southern Louisiana,19.0,0.0,Item 11
 Southern New England,65.0,0.0,Item 11
 Southwest Florida,60.0,0.0,Item 11
-Suncoast Florida,,,Item 11
+Suncoast Florida,46.0,0.0,Item 11
 Susquehanna Valley,26.0,21.0,Item 11
 Tennessee Valley,1.0,0.0,Item 11
 Tidewater,43.0,0.0,Item 11
@@ -984,7 +984,7 @@ Covenant,78.0,1.0,Item 12
 Eastern Canada,,,Item 12
 Eastern Carolina,50.0,0.0,Item 12
 Eastern Pennsylvania,26.0,0.0,Item 12
-Evangel,,,Item 12
+Evangel,80.0,0.0,Item 12
 Fellowship,38.0,0.0,Item 12
 Georgia Foothills,1.0,0.0,Item 12
 Grace,45.0,0.0,Item 12
@@ -1047,7 +1047,7 @@ Southeast Alabama,42.0,0.0,Item 12
 Southern Louisiana,19.0,0.0,Item 12
 Southern New England,66.0,0.0,Item 12
 Southwest Florida,21.0,27.0,Item 12
-Suncoast Florida,,,Item 12
+Suncoast Florida,47.0,0.0,Item 12
 Susquehanna Valley,46.0,5.0,Item 12
 Tennessee Valley,1.0,0.0,Item 12
 Tidewater,43.0,0.0,Item 12
