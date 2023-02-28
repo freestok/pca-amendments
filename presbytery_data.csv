@@ -62,7 +62,7 @@ Pacific Northwest,21.0,37.0,Item 1
 Palmetto,41.0,37.0,Item 1
 Pee Dee,35.0,0.0,Item 1
 Philadelphia,8.0,9.0,Item 1
-Philadelphia Metro West,,,Item 1
+Philadelphia Metro West,1.0,0.0,Item 1
 Piedmont Triad,18.0,22.0,Item 1
 Pittsburgh,39.0,15.0,Item 1
 Platte Valley,5.0,17.0,Item 1
@@ -150,7 +150,7 @@ Pacific Northwest,46.0,0.0,Item 2
 Palmetto,76.0,0.0,Item 2
 Pee Dee,40.0,0.0,Item 2
 Philadelphia,17.0,0.0,Item 2
-Philadelphia Metro West,,,Item 2
+Philadelphia Metro West,1.0,0.0,Item 2
 Piedmont Triad,38.0,0.0,Item 2
 Pittsburgh,48.0,0.0,Item 2
 Platte Valley,7.0,10.0,Item 2
@@ -238,7 +238,7 @@ Pacific Northwest,46.0,0.0,Item 3
 Palmetto,76.0,1.0,Item 3
 Pee Dee,13.0,25.0,Item 3
 Philadelphia,15.0,0.0,Item 3
-Philadelphia Metro West,,,Item 3
+Philadelphia Metro West,1.0,0.0,Item 3
 Piedmont Triad,38.0,0.0,Item 3
 Pittsburgh,50.0,1.0,Item 3
 Platte Valley,20.0,0.0,Item 3
@@ -326,7 +326,7 @@ Pacific Northwest,52.0,3.0,Item 4
 Palmetto,69.0,1.0,Item 4
 Pee Dee,39.0,0.0,Item 4
 Philadelphia,16.0,0.0,Item 4
-Philadelphia Metro West,,,Item 4
+Philadelphia Metro West,1.0,0.0,Item 4
 Piedmont Triad,22.0,15.0,Item 4
 Pittsburgh,53.0,0.0,Item 4
 Platte Valley,22.0,0.0,Item 4
@@ -414,7 +414,7 @@ Pacific Northwest,37.0,14.0,Item 5
 Palmetto,67.0,4.0,Item 5
 Pee Dee,38.0,0.0,Item 5
 Philadelphia,15.0,0.0,Item 5
-Philadelphia Metro West,,,Item 5
+Philadelphia Metro West,1.0,0.0,Item 5
 Piedmont Triad,34.0,7.0,Item 5
 Pittsburgh,49.0,1.0,Item 5
 Platte Valley,9.0,12.0,Item 5
@@ -502,7 +502,7 @@ Pacific Northwest,40.0,4.0,Item 6
 Palmetto,70.0,0.0,Item 6
 Pee Dee,37.0,0.0,Item 6
 Philadelphia,18.0,0.0,Item 6
-Philadelphia Metro West,,,Item 6
+Philadelphia Metro West,1.0,0.0,Item 6
 Piedmont Triad,39.0,0.0,Item 6
 Pittsburgh,40.0,3.0,Item 6
 Platte Valley,22.0,0.0,Item 6
@@ -590,7 +590,7 @@ Pacific Northwest,21.0,25.0,Item 7
 Palmetto,28.0,36.0,Item 7
 Pee Dee,7.0,31.0,Item 7
 Philadelphia,0.0,15.0,Item 7
-Philadelphia Metro West,,,Item 7
+Philadelphia Metro West,1.0,0.0,Item 7
 Piedmont Triad,16.0,20.0,Item 7
 Pittsburgh,10.0,34.0,Item 7
 Platte Valley,5.0,10.0,Item 7
@@ -678,7 +678,7 @@ Pacific Northwest,46.0,0.0,Item 8
 Palmetto,65.0,3.0,Item 8
 Pee Dee,33.0,2.0,Item 8
 Philadelphia,16.0,0.0,Item 8
-Philadelphia Metro West,,,Item 8
+Philadelphia Metro West,1.0,0.0,Item 8
 Piedmont Triad,40.0,0.0,Item 8
 Pittsburgh,46.0,2.0,Item 8
 Platte Valley,22.0,0.0,Item 8
@@ -766,7 +766,7 @@ Pacific Northwest,46.0,0.0,Item 9
 Palmetto,68.0,0.0,Item 9
 Pee Dee,40.0,0.0,Item 9
 Philadelphia,18.0,0.0,Item 9
-Philadelphia Metro West,,,Item 9
+Philadelphia Metro West,1.0,0.0,Item 9
 Piedmont Triad,39.0,0.0,Item 9
 Pittsburgh,49.0,1.0,Item 9
 Platte Valley,22.0,0.0,Item 9
@@ -854,7 +854,7 @@ Pacific Northwest,46.0,0.0,Item 10
 Palmetto,67.0,0.0,Item 10
 Pee Dee,38.0,1.0,Item 10
 Philadelphia,18.0,0.0,Item 10
-Philadelphia Metro West,,,Item 10
+Philadelphia Metro West,1.0,0.0,Item 10
 Piedmont Triad,37.0,0.0,Item 10
 Pittsburgh,46.0,1.0,Item 10
 Platte Valley,22.0,0.0,Item 10
@@ -942,7 +942,7 @@ Pacific Northwest,40.0,4.0,Item 11
 Palmetto,71.0,0.0,Item 11
 Pee Dee,35.0,2.0,Item 11
 Philadelphia,18.0,0.0,Item 11
-Philadelphia Metro West,,,Item 11
+Philadelphia Metro West,1.0,0.0,Item 11
 Piedmont Triad,40.0,0.0,Item 11
 Pittsburgh,45.0,1.0,Item 11
 Platte Valley,7.0,13.0,Item 11
@@ -1030,7 +1030,7 @@ Pacific Northwest,46.0,0.0,Item 12
 Palmetto,70.0,0.0,Item 12
 Pee Dee,37.0,0.0,Item 12
 Philadelphia,18.0,0.0,Item 12
-Philadelphia Metro West,,,Item 12
+Philadelphia Metro West,1.0,0.0,Item 12
 Piedmont Triad,40.0,0.0,Item 12
 Pittsburgh,48.0,1.0,Item 12
 Platte Valley,14.0,3.0,Item 12
