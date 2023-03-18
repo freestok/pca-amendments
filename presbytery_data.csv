@@ -29,7 +29,7 @@ Highlands,41.0,18.0,Item 1
 Hills and Plains,24.0,21.0,Item 1
 Houston Metro,34.0,16.0,Item 1
 Illiana,16.0,0.0,Item 1
-Iowa,,,Item 1
+Iowa,1.0,0.0,Item 1
 James River,55.0,22.0,Item 1
 Korean Capital,,,Item 1
 Korean Central,,,Item 1
@@ -66,7 +66,7 @@ Philadelphia Metro West,1.0,0.0,Item 1
 Piedmont Triad,18.0,22.0,Item 1
 Pittsburgh,39.0,15.0,Item 1
 Platte Valley,5.0,17.0,Item 1
-Potomac,,,Item 1
+Potomac,19.0,53.0,Item 1
 Providence,37.0,13.0,Item 1
 Rio Grande,9.0,20.0,Item 1
 Rocky Mountain,32.0,47.0,Item 1
@@ -117,7 +117,7 @@ Highlands,58.0,0.0,Item 2
 Hills and Plains,41.0,0.0,Item 2
 Houston Metro,50.0,0.0,Item 2
 Illiana,16.0,0.0,Item 2
-Iowa,,,Item 2
+Iowa,1.0,0.0,Item 2
 James River,79.0,0.0,Item 2
 Korean Capital,,,Item 2
 Korean Central,,,Item 2
@@ -205,7 +205,7 @@ Highlands,28.0,27.0,Item 3
 Hills and Plains,40.0,0.0,Item 3
 Houston Metro,50.0,0.0,Item 3
 Illiana,15.0,0.0,Item 3
-Iowa,,,Item 3
+Iowa,1.0,0.0,Item 3
 James River,77.0,0.0,Item 3
 Korean Capital,,,Item 3
 Korean Central,,,Item 3
@@ -293,7 +293,7 @@ Highlands,54.0,4.0,Item 4
 Hills and Plains,39.0,1.0,Item 4
 Houston Metro,38.0,12.0,Item 4
 Illiana,16.0,0.0,Item 4
-Iowa,,,Item 4
+Iowa,1.0,0.0,Item 4
 James River,80.0,0.0,Item 4
 Korean Capital,,,Item 4
 Korean Central,,,Item 4
@@ -330,7 +330,7 @@ Philadelphia Metro West,1.0,0.0,Item 4
 Piedmont Triad,22.0,15.0,Item 4
 Pittsburgh,53.0,0.0,Item 4
 Platte Valley,22.0,0.0,Item 4
-Potomac,,,Item 4
+Potomac,42.0,27.0,Item 4
 Providence,51.0,0.0,Item 4
 Rio Grande,1.0,0.0,Item 4
 Rocky Mountain,75.0,0.0,Item 4
@@ -381,7 +381,7 @@ Highlands,51.0,6.0,Item 5
 Hills and Plains,34.0,3.0,Item 5
 Houston Metro,50.0,0.0,Item 5
 Illiana,16.0,0.0,Item 5
-Iowa,,,Item 5
+Iowa,1.0,0.0,Item 5
 James River,80.0,0.0,Item 5
 Korean Capital,,,Item 5
 Korean Central,,,Item 5
@@ -418,7 +418,7 @@ Philadelphia Metro West,1.0,0.0,Item 5
 Piedmont Triad,34.0,7.0,Item 5
 Pittsburgh,49.0,1.0,Item 5
 Platte Valley,9.0,12.0,Item 5
-Potomac,,,Item 5
+Potomac,39.0,30.0,Item 5
 Providence,52.0,3.0,Item 5
 Rio Grande,1.0,0.0,Item 5
 Rocky Mountain,75.0,0.0,Item 5
@@ -469,7 +469,7 @@ Highlands,36.0,17.0,Item 6
 Hills and Plains,39.0,0.0,Item 6
 Houston Metro,50.0,0.0,Item 6
 Illiana,16.0,0.0,Item 6
-Iowa,,,Item 6
+Iowa,1.0,0.0,Item 6
 James River,77.0,0.0,Item 6
 Korean Capital,,,Item 6
 Korean Central,,,Item 6
@@ -557,7 +557,7 @@ Highlands,16.0,35.0,Item 7
 Hills and Plains,9.0,24.0,Item 7
 Houston Metro,37.0,12.0,Item 7
 Illiana,15.0,0.0,Item 7
-Iowa,,,Item 7
+Iowa,1.0,0.0,Item 7
 James River,40.0,39.0,Item 7
 Korean Capital,,,Item 7
 Korean Central,,,Item 7
@@ -645,7 +645,7 @@ Highlands,55.0,0.0,Item 8
 Hills and Plains,41.0,0.0,Item 8
 Houston Metro,50.0,0.0,Item 8
 Illiana,16.0,0.0,Item 8
-Iowa,,,Item 8
+Iowa,1.0,0.0,Item 8
 James River,13.0,61.0,Item 8
 Korean Capital,,,Item 8
 Korean Central,,,Item 8
@@ -733,7 +733,7 @@ Highlands,55.0,0.0,Item 9
 Hills and Plains,40.0,0.0,Item 9
 Houston Metro,50.0,0.0,Item 9
 Illiana,16.0,0.0,Item 9
-Iowa,,,Item 9
+Iowa,1.0,0.0,Item 9
 James River,77.0,0.0,Item 9
 Korean Capital,,,Item 9
 Korean Central,,,Item 9
@@ -821,7 +821,7 @@ Highlands,52.0,1.0,Item 10
 Hills and Plains,39.0,1.0,Item 10
 Houston Metro,50.0,0.0,Item 10
 Illiana,16.0,0.0,Item 10
-Iowa,,,Item 10
+Iowa,1.0,0.0,Item 10
 James River,77.0,0.0,Item 10
 Korean Capital,,,Item 10
 Korean Central,,,Item 10
@@ -909,7 +909,7 @@ Highlands,48.0,2.0,Item 11
 Hills and Plains,40.0,2.0,Item 11
 Houston Metro,50.0,0.0,Item 11
 Illiana,16.0,0.0,Item 11
-Iowa,,,Item 11
+Iowa,1.0,0.0,Item 11
 James River,77.0,0.0,Item 11
 Korean Capital,,,Item 11
 Korean Central,,,Item 11
@@ -997,7 +997,7 @@ Highlands,40.0,10.0,Item 12
 Hills and Plains,39.0,0.0,Item 12
 Houston Metro,50.0,0.0,Item 12
 Illiana,16.0,0.0,Item 12
-Iowa,,,Item 12
+Iowa,1.0,0.0,Item 12
 James River,77.0,0.0,Item 12
 Korean Capital,,,Item 12
 Korean Central,,,Item 12
