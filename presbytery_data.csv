@@ -32,7 +32,7 @@ Illiana,16.0,0.0,Item 1
 Iowa,9.0,3.0,Item 1
 James River,55.0,22.0,Item 1
 Korean Capital,,,Item 1
-Korean Central,,,Item 1
+Korean Central,24.0,4.0,Item 1
 Korean Eastern,,,Item 1
 Korean Northeastern,,,Item 1
 Korean Northwest,20.0,2.0,Item 1
@@ -120,7 +120,7 @@ Illiana,16.0,0.0,Item 2
 Iowa,13.0,0.0,Item 2
 James River,79.0,0.0,Item 2
 Korean Capital,,,Item 2
-Korean Central,,,Item 2
+Korean Central,1.0,0.0,Item 2
 Korean Eastern,,,Item 2
 Korean Northeastern,,,Item 2
 Korean Northwest,22.0,0.0,Item 2
@@ -208,7 +208,7 @@ Illiana,15.0,0.0,Item 3
 Iowa,11.0,0.0,Item 3
 James River,77.0,0.0,Item 3
 Korean Capital,,,Item 3
-Korean Central,,,Item 3
+Korean Central,1.0,0.0,Item 3
 Korean Eastern,,,Item 3
 Korean Northeastern,,,Item 3
 Korean Northwest,22.0,0.0,Item 3
@@ -296,7 +296,7 @@ Illiana,16.0,0.0,Item 4
 Iowa,14.0,0.0,Item 4
 James River,80.0,0.0,Item 4
 Korean Capital,,,Item 4
-Korean Central,,,Item 4
+Korean Central,1.0,0.0,Item 4
 Korean Eastern,,,Item 4
 Korean Northeastern,,,Item 4
 Korean Northwest,22.0,0.0,Item 4
@@ -384,7 +384,7 @@ Illiana,16.0,0.0,Item 5
 Iowa,15.0,0.0,Item 5
 James River,80.0,0.0,Item 5
 Korean Capital,,,Item 5
-Korean Central,,,Item 5
+Korean Central,1.0,0.0,Item 5
 Korean Eastern,,,Item 5
 Korean Northeastern,,,Item 5
 Korean Northwest,22.0,0.0,Item 5
@@ -472,7 +472,7 @@ Illiana,16.0,0.0,Item 6
 Iowa,15.0,0.0,Item 6
 James River,77.0,0.0,Item 6
 Korean Capital,,,Item 6
-Korean Central,,,Item 6
+Korean Central,1.0,0.0,Item 6
 Korean Eastern,,,Item 6
 Korean Northeastern,,,Item 6
 Korean Northwest,22.0,0.0,Item 6
@@ -560,7 +560,7 @@ Illiana,15.0,0.0,Item 7
 Iowa,2.0,13.0,Item 7
 James River,40.0,39.0,Item 7
 Korean Capital,,,Item 7
-Korean Central,,,Item 7
+Korean Central,1.0,0.0,Item 7
 Korean Eastern,,,Item 7
 Korean Northeastern,,,Item 7
 Korean Northwest,22.0,0.0,Item 7
@@ -648,7 +648,7 @@ Illiana,16.0,0.0,Item 8
 Iowa,11.0,2.0,Item 8
 James River,13.0,61.0,Item 8
 Korean Capital,,,Item 8
-Korean Central,,,Item 8
+Korean Central,1.0,0.0,Item 8
 Korean Eastern,,,Item 8
 Korean Northeastern,,,Item 8
 Korean Northwest,22.0,0.0,Item 8
@@ -736,7 +736,7 @@ Illiana,16.0,0.0,Item 9
 Iowa,15.0,0.0,Item 9
 James River,77.0,0.0,Item 9
 Korean Capital,,,Item 9
-Korean Central,,,Item 9
+Korean Central,1.0,0.0,Item 9
 Korean Eastern,,,Item 9
 Korean Northeastern,,,Item 9
 Korean Northwest,22.0,0.0,Item 9
@@ -824,7 +824,7 @@ Illiana,16.0,0.0,Item 10
 Iowa,15.0,0.0,Item 10
 James River,77.0,0.0,Item 10
 Korean Capital,,,Item 10
-Korean Central,,,Item 10
+Korean Central,1.0,0.0,Item 10
 Korean Eastern,,,Item 10
 Korean Northeastern,,,Item 10
 Korean Northwest,22.0,0.0,Item 10
@@ -912,7 +912,7 @@ Illiana,16.0,0.0,Item 11
 Iowa,14.0,0.0,Item 11
 James River,77.0,0.0,Item 11
 Korean Capital,,,Item 11
-Korean Central,,,Item 11
+Korean Central,1.0,0.0,Item 11
 Korean Eastern,,,Item 11
 Korean Northeastern,,,Item 11
 Korean Northwest,21.0,0.0,Item 11
@@ -1000,7 +1000,7 @@ Illiana,16.0,0.0,Item 12
 Iowa,15.0,0.0,Item 12
 James River,77.0,0.0,Item 12
 Korean Capital,,,Item 12
-Korean Central,,,Item 12
+Korean Central,1.0,0.0,Item 12
 Korean Eastern,,,Item 12
 Korean Northeastern,,,Item 12
 Korean Northwest,21.0,0.0,Item 12
